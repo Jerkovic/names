@@ -1,0 +1,3844 @@
+[
+ {
+  "id": "38608",
+  "status": "completed",
+  "eventName": "Skolgårdscupen 2022",
+  "classes": [
+   "Lång Herr",
+   "Lång Dam"
+  ],
+  "openClasses": [
+   "Ungdom",
+   "Troll"
+  ]
+ },
+ {
+  "id": "39042",
+  "status": "created",
+  "eventName": "Månadens bana December",
+  "classes": [
+   "The event has no classes."
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39122",
+  "status": "entries closed",
+  "eventName": "Julbana Högasand",
+  "classes": [
+   "Långa",
+   "Mellan",
+   "Melllankorta",
+   "Gul",
+   "Vit"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39238",
+  "status": "created",
+  "eventName": "Julbana Lövhagen",
+  "classes": [
+   "The event has no classes."
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39223",
+  "status": "entries opened",
+  "eventName": "Veckans bana V51(Tjustalliansen)",
+  "classes": [
+   "5 km",
+   "3",
+   "5",
+   "2",
+   "5"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39251",
+  "status": "created",
+  "eventName": "Veckans UsynligO banor v 52",
+  "classes": [
+   "korta 3.2 km",
+   "långa 4",
+   "6 km"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39237",
+  "status": "created",
+  "eventName": "Julmusten",
+  "classes": [
+   "Långa",
+   "Mellan",
+   "Korta"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39291",
+  "status": "created",
+  "eventName": "Veckans bana nyår 2022",
+  "classes": [
+   "Korta",
+   "Mellan"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39316",
+  "status": "created",
+  "eventName": "Sylvester-OL",
+  "classes": [
+   "The event has no classes."
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39257",
+  "status": "completed",
+  "eventName": "Nyårstrippeln  - Önafors Norr",
+  "classes": [
+   "Lång",
+   "Kort"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39266",
+  "status": "completed",
+  "eventName": "Nyårstrippeln - \"Udden\"",
+  "classes": [
+   "Lång",
+   "Kort"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39272",
+  "status": "completed",
+  "eventName": "Nyårstrippeln - Önafors Syd",
+  "classes": [
+   "Lång",
+   "Kort"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39292",
+  "status": "created",
+  "eventName": "Månadens Bana Januari",
+  "classes": [
+   "Lång",
+   "Mellan",
+   "Kort"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "36331",
+  "status": "completed",
+  "eventName": "Nyårsorienteringen",
+  "classes": [
+   "Mycket lätt Dam",
+   "Mycket lätt Herr",
+   "Lätt Dam",
+   "Lätt Herr",
+   "Medelsvår 1 Dam",
+   "Medelsvår 1 Herr",
+   "Medelsvår 2 Dam",
+   "Medelsvår 2 Herr",
+   "Svår 1 Dam",
+   "Svår 1 Herr",
+   "Svår 2 Dam",
+   "Svår 2 Herr"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39319",
+  "status": "created",
+  "eventName": "Veckans bana Nyårsträning Slättflis 1-22 januari",
+  "classes": [
+   "The event has no classes."
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39249",
+  "status": "completed",
+  "eventName": "Nyårspoängorientering",
+  "classes": [
+   "Poängklass"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39325",
+  "status": "created",
+  "eventName": "Veckans UsynligO banor v 1",
+  "classes": [
+   "Korta",
+   "mellan",
+   "långa"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39213",
+  "status": "completed",
+  "eventName": "Indoor träning Gummifabriken",
+  "classes": [
+   "Kort lätt",
+   "Lång svår"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "38986",
+  "status": "entries closed",
+  "eventName": "Vintercupen Etapp 4",
+  "classes": [
+   "Utan tid 1-5 banor"
+  ],
+  "openClasses": [
+   "5 banor",
+   "4 banor",
+   "3 banor",
+   "2 banor",
+   "1 bana",
+   "Gul bana",
+   "Vit bana"
+  ]
+ },
+ {
+  "id": "39036",
+  "status": "entries closed",
+  "eventName": "HSOK vinterlördag/söndag",
+  "classes": [
+   "Kort",
+   "Mellan",
+   "Lång",
+   "Blå bana 4",
+   "4 km"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39148",
+  "status": "entries closed",
+  "eventName": "Julcups finalen -21",
+  "classes": [
+   "Långa",
+   "Mellan",
+   "Kort",
+   "Lätt"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39211",
+  "status": "completed",
+  "eventName": "Vintercupen etapp 1",
+  "classes": [
+   "Lätt 2",
+   "5 km",
+   "Medelsvår 3",
+   "5 km",
+   "Svår 3 km",
+   "Svår 5 km",
+   "Svår 7 km"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "38981",
+  "status": "cancelled",
+  "eventName": "Skid-O Träning",
+  "classes": [
+   "ÖM3 km",
+   "ÖM5 km",
+   "ÖM8 km"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39296",
+  "status": "entries closed",
+  "eventName": "SkidO-träning Älvsbyn",
+  "classes": [
+   "Alla"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39275",
+  "status": "completed",
+  "eventName": "Agn Ben Gert",
+  "classes": [
+   "Korta",
+   "Mellan",
+   "Långa"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39341",
+  "status": "completed",
+  "eventName": "Sälen Indoor",
+  "classes": [
+   "Indoor"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39331",
+  "status": "created",
+  "eventName": "Veckans bana Rialamalmen 4-23 januari",
+  "classes": [
+   "The event has no classes."
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39218",
+  "status": "completed",
+  "eventName": "Nattcup Del 3",
+  "classes": [
+   "Långa",
+   "Korta",
+   "Mellan"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39276",
+  "status": "completed",
+  "eventName": "Smålänningen",
+  "classes": [
+   "Korta",
+   "Mellan",
+   "Långa"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "38707",
+  "status": "completed",
+  "eventName": "Vinternatt etapp 14, Fylleryd",
+  "classes": [
+   "Lång 7.3 km",
+   "Mellan 5.2 km",
+   "Korta 3.4 km",
+   "Orange 3.9 km",
+   "Lätt 2.6 km"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "38914",
+  "status": "completed",
+  "eventName": "Vintercupen deltävling 2",
+  "classes": [
+   "Vit/Gul",
+   "Orange",
+   "Violett",
+   "Blå/Svart"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39320",
+  "status": "completed",
+  "eventName": "Vinternattcup nr 1-2022",
+  "classes": [
+   "Dubbel-Diamant",
+   "Diamant",
+   "Guld",
+   "Silver",
+   "Brons",
+   "Järn",
+   "Rost",
+   "Ungdom"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "38898",
+  "status": "completed",
+  "eventName": "Vintercupen deltävling 3",
+  "classes": [
+   "2km",
+   "4km",
+   "6km"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39169",
+  "status": "completed",
+  "eventName": "Träningsdag i Tjust",
+  "classes": [
+   "Gul",
+   "Orange",
+   "Blå"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "38962",
+  "status": "entries closed",
+  "eventName": "Skinkoppet  2022",
+  "classes": [
+   "Mycket lätt 2 km",
+   "Medelsvår 3 km",
+   "Medelsvår 5 km"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39349",
+  "status": "completed",
+  "eventName": "Julcup3",
+  "classes": [
+   "Korta",
+   "Mellan",
+   "Långa"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39010",
+  "status": "completed",
+  "eventName": "J-H Skid-O Serie 1",
+  "classes": [
+   "ÖM 2",
+   "ÖM 4",
+   "ÖM 6"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39231",
+  "status": "completed",
+  "eventName": "Vinterrace 2022 deltävling 1",
+  "classes": [
+   "H-lätt",
+   "D-lätt",
+   "H-kort",
+   "D-kort",
+   "H-mellan",
+   "D-mellan",
+   "H-lång",
+   "D-lång"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39219",
+  "status": "completed",
+  "eventName": "Nattcup Del 4",
+  "classes": [
+   "Långa",
+   "Korta",
+   "Mellan"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39150",
+  "status": "completed",
+  "eventName": "Östra Blekinges natt-cup 8",
+  "classes": [
+   "korta",
+   "Mellankort",
+   "Mellan",
+   "Lång"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39188",
+  "status": "entries closed",
+  "eventName": "Lunkans nattcup E6",
+  "classes": [
+   "Nattcup"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39180",
+  "status": "completed",
+  "eventName": "Nattcup 3",
+  "classes": [
+   "A",
+   "B",
+   "C",
+   "D",
+   "Gul"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "38847",
+  "status": "completed",
+  "eventName": "SkidO, Svenska Cupen #1-3, Jokkmokk",
+  "classes": [
+   "D21 Elit",
+   "H21 Elit"
+  ],
+  "openClasses": [
+   "D20",
+   "H20",
+   "D18",
+   "H18",
+   "D16",
+   "H16",
+   "D14",
+   "H14",
+   "D12",
+   "H12",
+   "D10",
+   "H10",
+   "D35",
+   "H35",
+   "D45",
+   "H45",
+   "D55",
+   "H55",
+   "D65",
+   "H65",
+   "D75",
+   "H75"
+  ]
+ },
+ {
+  "id": "39345",
+  "status": "entries closed",
+  "eventName": "Teknikträning natt",
+  "classes": [
+   "Teknikträning"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39375",
+  "status": "created",
+  "eventName": "Veckans UsynligO banor v 2",
+  "classes": [
+   "Baba 1 lätt",
+   "bana 2 lätt",
+   "bana 3 medel",
+   "bana 4 medel",
+   "bana 5 medel",
+   "bana 6 medel",
+   "bana 7 svår",
+   "bana 8 svår"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39240",
+  "status": "entries closed",
+  "eventName": "Träning OL-NV",
+  "classes": [
+   "Vit",
+   "Gul",
+   "Orange/Violett"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39243",
+  "status": "entries closed",
+  "eventName": "Klubbträning GMOK",
+  "classes": [
+   "Svart",
+   "Orange (vill ha utskriven karta)",
+   "Orange",
+   "Gul (vill ha utskriven karta)",
+   "Gul",
+   "Vit (vill ha utskriven karta)",
+   "vit"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39253",
+  "status": "completed",
+  "eventName": "TGOK Sprintcup 21-22, #2",
+  "classes": [
+   "Långa",
+   "Korta"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39353",
+  "status": "created",
+  "eventName": "Poängjakt",
+  "classes": [
+   "The event has no classes."
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39002",
+  "status": "completed",
+  "eventName": "Lunds OK VinterSerien MTBO 2021/22",
+  "classes": [
+   "H6 km",
+   "D6 km",
+   "H12 km",
+   "D12 km",
+   "H18 km",
+   "D18 km"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "38729",
+  "status": "cancelled",
+  "eventName": "Mora Indoor Cup, individuell",
+  "classes": [
+   "Nybörjare",
+   "HD12",
+   "HD14",
+   "HD16",
+   "HD17-20",
+   "HD21-49",
+   "HD50-64",
+   "HD65+"
+  ],
+  "openClasses": [
+   "Öppen lätt",
+   "Öppen medel",
+   "Öppen svår"
+  ]
+ },
+ {
+  "id": "39377",
+  "status": "completed",
+  "eventName": "Söndagsträning",
+  "classes": [
+   "Intervall Kort",
+   "Intervall Lång",
+   "Masstart Kort",
+   "Masstart Lång",
+   "Öppen Kort",
+   "Öppen Lång"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39293",
+  "status": "entries closed",
+  "eventName": "Söndagsträning - Test",
+  "classes": [
+   "Intervall Kort",
+   "Intervall Lång",
+   "Masstart Kort",
+   "Masstart Lång",
+   "Öppen Kort",
+   "Öppen Lång"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39303",
+  "status": "entries closed",
+  "eventName": "Söndagsträning - Test2",
+  "classes": [
+   "Intervall Kort",
+   "Intervall Lång",
+   "Masstart Kort",
+   "Masstart Lång"
+  ],
+  "openClasses": [
+   "Öppen Kort",
+   "Öppen Lång"
+  ]
+ },
+ {
+  "id": "39312",
+  "status": "completed",
+  "eventName": "Gröt-OL 2022",
+  "classes": [
+   "H-Lång",
+   "D-Lång",
+   "H-Mellan",
+   "D-Mellan",
+   "H-Kort",
+   "D-Kort"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39332",
+  "status": "entries closed",
+  "eventName": "Sunes bana",
+  "classes": [
+   "Långa",
+   "Mellan",
+   "Korta"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "38857",
+  "status": "completed",
+  "eventName": "Vintercup Etapp 5",
+  "classes": [
+   "5 banor",
+   "4 banor",
+   "3 banor",
+   "2 banor",
+   "1 bana",
+   "Gul",
+   "Vit",
+   "Utan tid"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39274",
+  "status": "completed",
+  "eventName": "Vintercupen",
+  "classes": [
+   "Gul 2",
+   "5 km",
+   "Röd 3",
+   "5 km",
+   "Svart 5 km",
+   "Svart 10 km",
+   "Svart 15 km"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39140",
+  "status": "entries closed",
+  "eventName": "Vintercupen E1, SV Kretsen Skåne",
+  "classes": [
+   "D16",
+   "D17",
+   "D45",
+   "H16",
+   "H17",
+   "H45",
+   "Vitgul"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39322",
+  "status": "completed",
+  "eventName": "FAIK Sprint  5-dagars Etapp 2",
+  "classes": [
+   "Gul",
+   "Vit",
+   "Svart Lång",
+   "Svart Kort",
+   "Orange"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39310",
+  "status": "entries closed",
+  "eventName": "Söndagsträning",
+  "classes": [
+   "Långa",
+   "Mellan",
+   "Melllankorta",
+   "Gul",
+   "Vit"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39203",
+  "status": "completed",
+  "eventName": "Flane Cup #4, El Jonashans Troffy",
+  "classes": [
+   "Flane B",
+   "4km Blå",
+   "3km GulOrange",
+   "1",
+   "5km GrönVit"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39147",
+  "status": "completed",
+  "eventName": "Vinterserien",
+  "classes": [
+   "A",
+   "B",
+   "C",
+   "D",
+   "E"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "36145",
+  "status": "cancelled",
+  "eventName": "Göteborg Indoor Orienteering",
+  "classes": [
+   "The event has no classes."
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39011",
+  "status": "completed",
+  "eventName": "J-H Skid-O Serie 2",
+  "classes": [
+   "ÖM 2",
+   "ÖM 4",
+   "ÖM 6",
+   "ÖM 8",
+   "ÖM 10"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "38730",
+  "status": "cancelled",
+  "eventName": "Mora Indoor Cup, stafett",
+  "classes": [
+   "Lätt",
+   "Svår"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39101",
+  "status": "completed",
+  "eventName": "Vinterrace etapp2",
+  "classes": [
+   "H-lätt",
+   "D-lätt",
+   "H-kort",
+   "D-kort",
+   "H-mellan",
+   "D-mellan",
+   "H-lång",
+   "D-lång"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39229",
+  "status": "completed",
+  "eventName": "Nattcup v 2 veckans bana OKS",
+  "classes": [
+   "Lång",
+   "Mellan",
+   "Kort",
+   "Lätt"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39277",
+  "status": "completed",
+  "eventName": "Klössboexpressen",
+  "classes": [
+   "Korta",
+   "Mellan",
+   "Långa"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39328",
+  "status": "completed",
+  "eventName": "Stjärnnatt #1",
+  "classes": [
+   "Kort",
+   "Mellan",
+   "Lång",
+   "X-lång"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "38631",
+  "status": "completed",
+  "eventName": "OK Landehof Nattcup etapp 4",
+  "classes": [
+   "Gul utom tävlan"
+  ],
+  "openClasses": [
+   "Gul",
+   "Svart Kort",
+   "Svart Lång"
+  ]
+ },
+ {
+  "id": "39373",
+  "status": "completed",
+  "eventName": "NATTSKIDO 1",
+  "classes": [
+   "LÅNGA 6 KM",
+   "KORTA 3 KM"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39191",
+  "status": "completed",
+  "eventName": "Nattcup #3",
+  "classes": [
+   "A",
+   "B",
+   "C"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "38808",
+  "status": "completed",
+  "eventName": "OL-NV Natträning 5",
+  "classes": [
+   "Långa",
+   "Mellan",
+   "Korta",
+   "Lätta"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "38564",
+  "status": "completed",
+  "eventName": "Ramonsbana 2022:5",
+  "classes": [
+   "Långa",
+   "Mellan",
+   "Korta"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39344",
+  "status": "completed",
+  "eventName": "GTNC #3",
+  "classes": [
+   "1D Svart 5-6 Km",
+   "1H Svart 5-6Km",
+   "2D Blå 4-5 Km",
+   "2H Blå 4-5 Km",
+   "3D orange-röd  2",
+   "5-3",
+   "5 Km",
+   "3H orange-röd 2",
+   "5-3",
+   "5 Km"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39420",
+  "status": "completed",
+  "eventName": "Luffarligan Ursvik",
+  "classes": [
+   "The event has no classes."
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "36680",
+  "status": "completed",
+  "eventName": "Mareld Stockholm By Night, #3",
+  "classes": [
+   "Vega Damer",
+   "Vega Herrar",
+   "Orion Damer",
+   "Orion Herrar",
+   "Nova Damer",
+   "Nova Herrar"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "38754",
+  "status": "completed",
+  "eventName": "Ullmax Vinterserie 2022, deltävling 3",
+  "classes": [
+   "Långa",
+   "Mellan (herrar)",
+   "Mellan (damer)",
+   "Korta",
+   "Enkla"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39395",
+  "status": "entries closed",
+  "eventName": "Vinternattcup nr.2 - 2022",
+  "classes": [
+   "Dubbel-Diamant",
+   "Diamant",
+   "Guld",
+   "Silver",
+   "Brons",
+   "Järn",
+   "Rost",
+   "Ungdom"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39278",
+  "status": "completed",
+  "eventName": "Per Leifsson ",
+  "classes": [
+   "Korta",
+   "Mellan",
+   "Långa"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "38830",
+  "status": "completed",
+  "eventName": "MOF Nattcup #5",
+  "classes": [
+   "Långa banan",
+   "Mellan Damer",
+   "Mellan Herrar",
+   "Kort Ungdomar",
+   "Kort Övriga"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39304",
+  "status": "completed",
+  "eventName": "Kylklampen deltävling 5",
+  "classes": [
+   "Långa",
+   "Mellan",
+   "Korta",
+   "Lätta"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39329",
+  "status": "completed",
+  "eventName": "FSOK och OK Denselns natt-cup",
+  "classes": [
+   "Svår lång",
+   "Svår kort",
+   "Mellan",
+   "Lätta",
+   "Lättlätta"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "38379",
+  "status": "completed",
+  "eventName": "Mareld nattcup E4",
+  "classes": [
+   "Dam lång",
+   "Herr lång",
+   "Dam mellan",
+   "Herr mellan",
+   "Kort"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39260",
+  "status": "completed",
+  "eventName": "Motions-OL för veteraner och daglediga /Hundklubben",
+  "classes": [
+   "Långa",
+   "Mellan",
+   "Korta"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39073",
+  "status": "completed",
+  "eventName": "Veteran OL Hisingsparken",
+  "classes": [
+   "Kort",
+   "Mellan",
+   "Lång",
+   "Stig"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39321",
+  "status": "completed",
+  "eventName": "Frennarpsnatta",
+  "classes": [
+   "Svår",
+   "Svår 1:3000",
+   "Mellan",
+   "Mellan 1:3000",
+   "Lätt 2km"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39405",
+  "status": "completed",
+  "eventName": "Faxeholmsnatta",
+  "classes": [
+   "Korta",
+   "Mellan",
+   "Långa"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39369",
+  "status": "entries closed",
+  "eventName": "GBG Teknikträning",
+  "classes": [
+   "Karta med mail",
+   "Karta hos GOF",
+   "Klubbanmälan"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "38910",
+  "status": "completed",
+  "eventName": "Upplandsbygden by night #3",
+  "classes": [
+   "Lång",
+   "Kort"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39340",
+  "status": "completed",
+  "eventName": "Go´nattcup etapp 4",
+  "classes": [
+   "Långa",
+   "Mellan",
+   "Mellankorta",
+   "Korta"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39391",
+  "status": "completed",
+  "eventName": "Nattcup Östra Blekinge",
+  "classes": [
+   "Långa",
+   "Mellan",
+   "Mellankorta",
+   "Korta"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "38858",
+  "status": "completed",
+  "eventName": "Pölder Sport Nattcup 2021/22 etapp 3",
+  "classes": [
+   "Långa",
+   "Mellan Dam",
+   "Mellan Herr",
+   "Korta svår",
+   "Korta lätt"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39363",
+  "status": "entries closed",
+  "eventName": "Dalaoffensivens Spetsträning - Nr 1 2022 a´la DSA Elit",
+  "classes": [
+   "Långa 10",
+   "9",
+   "Mellan 9",
+   "Korta 7",
+   "2",
+   "Kortaste 5",
+   "4"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39366",
+  "status": "completed",
+  "eventName": "Nattcup del 3",
+  "classes": [
+   "Lätta",
+   "Korta",
+   "Mellan",
+   "Långa"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "38883",
+  "status": "completed",
+  "eventName": "Vinternatt etapp 15, Långa Tveta-Natten:  Olycksbergen - Hacksjöhultagöl",
+  "classes": [
+   "Lång 10",
+   "2km 355m stigning",
+   "Mellan 6",
+   "7km 240m stigning",
+   "Korta 3",
+   "3km 115m stigning",
+   "Orange 3",
+   "6km 80m stigning",
+   "Lätta GUL 2",
+   "4km 50m stigning"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39350",
+  "status": "completed",
+  "eventName": "Vätterbygd By Night - Beth",
+  "classes": [
+   "Lång",
+   "Mellan",
+   "Kort",
+   "Kort Lätt"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "38724",
+  "status": "completed",
+  "eventName": "Natt 7:an etapp 4",
+  "classes": [
+   "Dam 1",
+   "Herr 1",
+   "Dam 2",
+   "Herr 2",
+   "Dam 3",
+   "Herr 3",
+   "Dam 4",
+   "Herr 4"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39197",
+  "status": "completed",
+  "eventName": "Skaraborg by night",
+  "classes": [
+   "Svår 7 km Herr",
+   "Svår 5 km Herr",
+   "Svår 3 km Herr",
+   "Medelsvår 3 km Herr",
+   "Mycket lätt 2 km Herr",
+   "Svår 7 km Dam",
+   "Svår 5 km Dam",
+   "Svår 3 km Dam",
+   "Medelsvår 3 km Dam",
+   "Mycket lätt 2 km Dam"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39434",
+  "status": "completed",
+  "eventName": "Medel_Massstart",
+  "classes": [
+   "H21",
+   "D21"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "38973",
+  "status": "completed",
+  "eventName": "SkidO, J-cup + seniorer, sprint",
+  "classes": [
+   "D21 Elit",
+   "H21 Elit",
+   "D20 Elit",
+   "H20 Elit",
+   "D18 Elit",
+   "H18 Elit"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "38974",
+  "status": "completed",
+  "eventName": "SkidO, Svenska SkidO-träffen, medel",
+  "classes": [
+   "D16",
+   "H16",
+   "D14",
+   "H14",
+   "D12",
+   "H12",
+   "D10",
+   "H10",
+   "D35",
+   "H35",
+   "D40",
+   "H40",
+   "D45",
+   "H45",
+   "D50",
+   "H50",
+   "D55",
+   "H55",
+   "D60",
+   "H60",
+   "D65",
+   "H65",
+   "D70",
+   "H70",
+   "D75",
+   "H75"
+  ],
+  "openClasses": [
+   "Lätt 2",
+   "5 km",
+   "Medelsvår 5 km",
+   "Svår 7 km"
+  ]
+ },
+ {
+  "id": "39406",
+  "status": "\n                                Saturday 15 January 2022\n                                \n                            ",
+  "eventName": "Test",
+  "classes": [
+   "elitklasser"
+  ],
+  "openClasses": [
+   "The event has no classes."
+  ]
+ },
+ {
+  "id": "36202",
+  "status": "cancelled",
+  "eventName": "Västkustens Indoor Cup",
+  "classes": [
+   "Dam",
+   "Herr",
+   "D16",
+   "H16",
+   "D14",
+   "H14",
+   "D12",
+   "H12",
+   "D10",
+   "H10",
+   "Oldgirls (+45)",
+   "Oldboys (+45)"
+  ],
+  "openClasses": [
+   "Inskolning"
+  ]
+ },
+ {
+  "id": "39423",
+  "status": "created",
+  "eventName": "Månadens bana januari, Hacktorp",
+  "classes": [
+   "The event has no classes."
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39431",
+  "status": "created",
+  "eventName": "Natt-OL / 10-mila träning #10",
+  "classes": [
+   "The event has no classes."
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39427",
+  "status": "created",
+  "eventName": "Veckans UsynligO banor v3",
+  "classes": [
+   "korta 2",
+   "5 km",
+   "mellan 3",
+   "6 km",
+   "långa 5 km"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39402",
+  "status": "entries closed",
+  "eventName": "HSOK vinterlördag/söndag",
+  "classes": [
+   "Kort",
+   "Mellan",
+   "Lång"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39173",
+  "status": "completed",
+  "eventName": "Skid-O LIF4 Life",
+  "classes": [
+   "Lätt 2 km",
+   "Medelsvår 4 km",
+   "Svår 6 km",
+   "Svår 10 km"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39355",
+  "status": "created",
+  "eventName": "Poängjakt",
+  "classes": [
+   "The event has no classes."
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39449",
+  "status": "created",
+  "eventName": "Veckans bana jan-feb ",
+  "classes": [
+   "The event has no classes."
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "38975",
+  "status": "completed",
+  "eventName": "SkidO, J-cup, medel + Svenska SkidO-träffen",
+  "classes": [
+   "D21 Elit",
+   "H21 Elit",
+   "D20 Elit",
+   "H20 Elit",
+   "D18 Elit",
+   "H18 Elit"
+  ],
+  "openClasses": [
+   "D16",
+   "H16",
+   "D14",
+   "H14",
+   "D12",
+   "H12",
+   "D10",
+   "H10",
+   "D35",
+   "H35",
+   "D40",
+   "H40",
+   "D45",
+   "H45",
+   "D50",
+   "H50",
+   "D55",
+   "H55",
+   "D60",
+   "H60",
+   "D65",
+   "H65",
+   "D70",
+   "H70",
+   "D75",
+   "H75"
+  ]
+ },
+ {
+  "id": "39302",
+  "status": "completed",
+  "eventName": "Vinterrace etapp 3",
+  "classes": [
+   "H-lätt",
+   "D-lätt",
+   "H-kort",
+   "D-kort",
+   "H-mellan",
+   "D-Mellan",
+   "H-lång",
+   "D-lång"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39333",
+  "status": "entries closed",
+  "eventName": "SOFT JSTU",
+  "classes": [
+   "JSTU"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39305",
+  "status": "entries closed",
+  "eventName": "Vinter-Rogaine",
+  "classes": [
+   "1-timmars",
+   "2-timmars",
+   "EMSS"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39415",
+  "status": "entries closed",
+  "eventName": "Söndagsträning Häljarum Ö",
+  "classes": [
+   "Långa",
+   "Mellan",
+   "Melllankorta",
+   "Gul",
+   "Vit"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39407",
+  "status": "completed",
+  "eventName": "Tjustalliansens vintercup 5",
+  "classes": [
+   "Mini",
+   "Kort",
+   "Mellan",
+   "X-tra allt",
+   "Lång"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39338",
+  "status": "completed",
+  "eventName": "Vintercup Immeln Etapp 6",
+  "classes": [
+   "5 banor",
+   "4 banor",
+   "3 banor",
+   "2 banor",
+   "1 bana",
+   "Gul",
+   "Vit",
+   "Utan tidtagning"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39336",
+  "status": "entries closed",
+  "eventName": "Vintercupen E2, SV Kretsen Skåne",
+  "classes": [
+   "D16",
+   "D17",
+   "D45",
+   "H16",
+   "H17",
+   "H45",
+   "Vitgul"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39394",
+  "status": "created",
+  "eventName": "Vinterträning",
+  "classes": [
+   "The event has no classes."
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39435",
+  "status": "completed",
+  "eventName": "Sprint Halmstad",
+  "classes": [
+   "H21",
+   "D21"
+  ],
+  "openClasses": [
+   "Orange"
+  ]
+ },
+ {
+  "id": "39174",
+  "status": "completed",
+  "eventName": "Vintercupen  Etapp 3",
+  "classes": [
+   "Lätt 2",
+   "5 km",
+   "Medelsvår 3.5 km",
+   "Svår 3 km",
+   "Svår 5 km",
+   "Svår 7 km"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39390",
+  "status": "completed",
+  "eventName": "Vinterserien 22-01-16",
+  "classes": [
+   "A",
+   "B",
+   "C",
+   "D",
+   "E"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39307",
+  "status": "created",
+  "eventName": "Träningscup MTBO vinter delträning 3",
+  "classes": [
+   "The event has no classes."
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39178",
+  "status": "completed",
+  "eventName": "SkidO, VOF-cup, #1, Robertsfors",
+  "classes": [
+   "D21",
+   "H21",
+   "D16",
+   "H16",
+   "D14",
+   "H14",
+   "D12",
+   "H12"
+  ],
+  "openClasses": [
+   "Mycket  lätt 2 km",
+   "Medelsvår 5 km",
+   "Svår 5 km",
+   "Svår 7 km"
+  ]
+ },
+ {
+  "id": "39436",
+  "status": "created",
+  "eventName": "70 plusligan",
+  "classes": [
+   "The event has no classes."
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39279",
+  "status": "completed",
+  "eventName": "Granbodaracet",
+  "classes": [
+   "Korta",
+   "Mellan",
+   "Långa"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39189",
+  "status": "completed",
+  "eventName": "Motions-OL för veteraner och daglediga/Tyrstugan",
+  "classes": [
+   "Långa",
+   "Mellan",
+   "Korta"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39466",
+  "status": "completed",
+  "eventName": "Träning skidorientering Hemus ",
+  "classes": [
+   "Bana 1",
+   "Bana 2",
+   "Bana 3",
+   "Bana 4",
+   "Bana 5",
+   "Bana 6",
+   "Bana 7",
+   "Bana 8",
+   "Bana 9",
+   "H 21"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39362",
+  "status": "completed",
+  "eventName": "Spik-Cup 1",
+  "classes": [
+   "Kort",
+   "Mellan",
+   "Lång"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39492",
+  "status": "entries closed",
+  "eventName": "VKC1",
+  "classes": [
+   "Kort"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39400",
+  "status": "completed",
+  "eventName": "Tjustalliansens Nattcup #5",
+  "classes": [
+   "Kort (Gul)",
+   "Mellan (Orange)",
+   "Lång (Blå/Svart)"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39280",
+  "status": "completed",
+  "eventName": "Tom Oscar Mysson",
+  "classes": [
+   "Korta",
+   "Mellan",
+   "Långa"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39444",
+  "status": "entries closed",
+  "eventName": "Vinternattcup nr 3-2022",
+  "classes": [
+   "Dubbel-Diamant",
+   "Diamant",
+   "Guld",
+   "Silver",
+   "Brons",
+   "Järn",
+   "Rost",
+   "Ungdom"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39204",
+  "status": "completed",
+  "eventName": "Nattugglan #3",
+  "classes": [
+   "Långa 8",
+   "9",
+   "Mellan 6",
+   "4",
+   "Korta 4",
+   "5",
+   "Kortkort - 3",
+   "5 (Röd)"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "38899",
+  "status": "completed",
+  "eventName": "Vintercupen deltävling 4",
+  "classes": [
+   "2km",
+   "4km",
+   "6km"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39324",
+  "status": "completed",
+  "eventName": "VNC #3",
+  "classes": [
+   "Lång Herr",
+   "Lång Dam",
+   "Mellan Herr",
+   "Mellan Dam",
+   "Kort Herr",
+   "Kort Dam",
+   "Orange Herr",
+   "Orange Dam"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39457",
+  "status": "created",
+  "eventName": "VECKANS BANA  20-24/1 STRÄNGNÄS",
+  "classes": [
+   "The event has no classes."
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39261",
+  "status": "completed",
+  "eventName": "Motions-OL för veteraner och daglediga /Kaffeberget",
+  "classes": [
+   "Långa",
+   "Mellan",
+   "Korta"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39465",
+  "status": "completed",
+  "eventName": "Sandarne by Night ",
+  "classes": [
+   "Korta",
+   "Mellan",
+   "Långa"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "38996",
+  "status": "completed",
+  "eventName": "Jerrys Nattsprint 2.",
+  "classes": [
+   "Kort",
+   "Kortare",
+   "Kortast"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39430",
+  "status": "completed",
+  "eventName": "Vätterbygden by Night ",
+  "classes": [
+   "H Lång",
+   "D Lång",
+   "H Mellan",
+   "D Mellan",
+   "Kort svår",
+   "Kort lätt"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39371",
+  "status": "entries closed",
+  "eventName": "GBG Teknikträning",
+  "classes": [
+   "Karta med mail",
+   "Karta hos GOF",
+   "Klubbanmälan"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39445",
+  "status": "entries closed",
+  "eventName": "GMOK-Nattpass",
+  "classes": [
+   "H21",
+   "D21"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39202",
+  "status": "completed",
+  "eventName": "Midvinterduell",
+  "classes": [
+   "Kort dam",
+   "Kort herr",
+   "Mellan dam",
+   "Mellan herr",
+   "Lång dam",
+   "Lång herr"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39347",
+  "status": "completed",
+  "eventName": "Nattråttan deltävling 3",
+  "classes": [
+   "Vit",
+   "Gul",
+   "Orange",
+   "Svart"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39283",
+  "status": "completed",
+  "eventName": "Vinternatt etapp 16, Furuby",
+  "classes": [
+   "Lång",
+   "Mellan",
+   "Korta",
+   "Orange"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "38632",
+  "status": "completed",
+  "eventName": "OK Landehof Nattcup etapp 5",
+  "classes": [
+   "Gul utom tävlan"
+  ],
+  "openClasses": [
+   "Gul",
+   "Svart Kort",
+   "Svart Lång"
+  ]
+ },
+ {
+  "id": "39433",
+  "status": "completed",
+  "eventName": "Nattcup nr 10",
+  "classes": [
+   "Lång",
+   "Mellan",
+   "Mellankort",
+   "Kort"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39401",
+  "status": "completed",
+  "eventName": "Pölder Sport Nattcup Etapp 4",
+  "classes": [
+   "Långa svart/blå",
+   "Mellan svart/blå Herr",
+   "Mellan svart/blå Dam",
+   "Korta Blå",
+   "Korta gul"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "38515",
+  "status": "completed",
+  "eventName": "Nissadals Natt-race",
+  "classes": [
+   "Herr kort",
+   "Dam kort",
+   "Herr mellan",
+   "Dam mellan",
+   "Herr lång",
+   "Dam lång"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39364",
+  "status": "completed",
+  "eventName": "Nattcupen 4",
+  "classes": [
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39351",
+  "status": "entries closed",
+  "eventName": "Lunkans nattcup E7",
+  "classes": [
+   "Nattcup"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "38780",
+  "status": "completed",
+  "eventName": "Vintercupen E4",
+  "classes": [
+   "Mycket lätt 2 km",
+   "Lätt 2",
+   "5 km",
+   "Medelsvår 3 km Vuxna",
+   "Svår 3 km",
+   "Svår 5 km",
+   "Medelsvår 3 km Ungdom"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39403",
+  "status": "completed",
+  "eventName": "Träningstävling - One man relay",
+  "classes": [
+   "7 km 1:10000",
+   "7 km  1:7500",
+   "5 km 1:10000",
+   "5 km 1:7:500",
+   "7 km",
+   "5 km"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39381",
+  "status": "entries closed",
+  "eventName": "Vinter OL Lördag #2",
+  "classes": [
+   "6",
+   "5km",
+   "4",
+   "3km",
+   "3",
+   "1km"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39495",
+  "status": "created",
+  "eventName": "Veckans UsynligO banor v 4",
+  "classes": [
+   "The event has no classes."
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39411",
+  "status": "entries closed",
+  "eventName": "Spetsträning Hallsberg",
+  "classes": [
+   "Bana 1",
+   "Bana 2",
+   "Bana 3",
+   "Micro-OL"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39335",
+  "status": "entries closed",
+  "eventName": "FAIK klubbmästerskap i Maze Race",
+  "classes": [
+   "Vuxna"
+  ],
+  "openClasses": [
+   "HD12",
+   "HD16"
+  ]
+ },
+ {
+  "id": "39380",
+  "status": "entries closed",
+  "eventName": "Lördagsträning Kaneberg-Skedala",
+  "classes": [
+   "3 km",
+   "vanlig karta",
+   "4",
+   "4 km vanlig karta",
+   "4.4 karta med stigarna bortplockade",
+   "8.3 km vanlig karta",
+   "8.3 km teknik"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39413",
+  "status": "entries closed",
+  "eventName": "Stafetträning elit Ulvasjön",
+  "classes": [
+   "Svart"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39379",
+  "status": "completed",
+  "eventName": "Zon-träning 2022",
+  "classes": [
+   "Bana 1",
+   "Bana 2",
+   "Bana 3",
+   "Bana 4",
+   "Bana 5"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39346",
+  "status": "completed",
+  "eventName": "TGOK Sprintcup 21-22, #3",
+  "classes": [
+   "Långa",
+   "Korta"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39356",
+  "status": "created",
+  "eventName": "Poängjakt",
+  "classes": [
+   "The event has no classes."
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39012",
+  "status": "completed",
+  "eventName": "J-H Skid-O Serie 3",
+  "classes": [
+   "ÖM 2",
+   "ÖM 4",
+   "ÖM 6",
+   "ÖM 8",
+   "ÖM 10"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39451",
+  "status": "cancelled",
+  "eventName": "Lördagsträff #5",
+  "classes": [
+   "Vit",
+   "Gul",
+   "Orange",
+   "Röd",
+   "Blå",
+   "Svart"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39246",
+  "status": "completed",
+  "eventName": "SkidO, VOF-cup, #2, Skellefteå",
+  "classes": [
+   "D21",
+   "H21",
+   "D16",
+   "H16",
+   "D14",
+   "H14",
+   "D12",
+   "H12",
+   "D10",
+   "H10"
+  ],
+  "openClasses": [
+   "Mycket lätt 2 km",
+   "Medelsvår 5 km",
+   "Svår 5 km",
+   "Svår 7 km"
+  ]
+ },
+ {
+  "id": "39389",
+  "status": "completed",
+  "eventName": "#6 FF-FK Träning ungdom/bredd: Massstart Medel",
+  "classes": [
+   "Svart 1:10´000",
+   "Svart 1:7´500",
+   "Orange 1:10´000",
+   "Gul 1:10´000",
+   "vit 1:7´500",
+   "Svart"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39370",
+  "status": "completed",
+  "eventName": "#6 FF-FK Träning Gbg: Massstart Medel",
+  "classes": [
+   "H21",
+   "D21"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39450",
+  "status": "entries closed",
+  "eventName": "Oteknik Strekered",
+  "classes": [
+   "Lång"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39493",
+  "status": "created",
+  "eventName": "Veckans bana Norrbys 23/1-12/2",
+  "classes": [
+   "The event has no classes."
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "38755",
+  "status": "completed",
+  "eventName": "Ullmax Vinterserie 2022, deltävling 4",
+  "classes": [
+   "Långa",
+   "Mellan (herrar)",
+   "Mellan (damer)",
+   "Korta",
+   "Enkla"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39396",
+  "status": "entries closed",
+  "eventName": "Tävlingsinformation: Vintercupen E3, SV Kretsen Skåne",
+  "classes": [
+   "D16",
+   "H16",
+   "D17",
+   "H17",
+   "D45",
+   "H45",
+   "Vitgul"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39398",
+  "status": "completed",
+  "eventName": "Vintercupen Etapp 4",
+  "classes": [
+   "Lätt 2",
+   "5 km",
+   "Medelsvår 3",
+   "5 km",
+   "Svår 3 km",
+   "Svår 5 km",
+   "Svår 7 km"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39199",
+  "status": "completed",
+  "eventName": "Vintercupen Pan-Kristianstad Etapp 7",
+  "classes": [
+   "5 banor",
+   "4 banor",
+   "3 banor",
+   "2 banor",
+   "1 bana",
+   "Gul bana",
+   "Vit bana",
+   "Utan tid"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39482",
+  "status": "created",
+  "eventName": "Vinterträning",
+  "classes": [
+   "The event has no classes."
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39033",
+  "status": "completed",
+  "eventName": "GOF Junior Januari",
+  "classes": [
+   "Junior",
+   "Föräldrar/chaufför"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39441",
+  "status": "entries closed",
+  "eventName": "Söndagsträning i Tvärskog för Orion och Karlskrona",
+  "classes": [
+   "Gul bana",
+   "1 slinga",
+   "2 slingor",
+   "3 slingor",
+   "4 slingor"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39428",
+  "status": "completed",
+  "eventName": "SkidO, Mjösjölången, NOF-cup #1",
+  "classes": [
+   "D21",
+   "H21",
+   "D20",
+   "H20",
+   "D18",
+   "H18",
+   "D16",
+   "H16",
+   "D14",
+   "H14",
+   "D12",
+   "H12",
+   "D10",
+   "H10",
+   "D35",
+   "H35",
+   "D45",
+   "H45",
+   "D55",
+   "H55",
+   "D65",
+   "H65",
+   "D75",
+   "H75"
+  ],
+  "openClasses": [
+   "Öppen 2",
+   "Öppen 5",
+   "Öppen 8"
+  ]
+ },
+ {
+  "id": "39259",
+  "status": "completed",
+  "eventName": "Vinterrace etapp 4",
+  "classes": [
+   "H-kort",
+   "D-kort",
+   "H-mellan",
+   "D-mellan",
+   "H-lång",
+   "D-lång",
+   "H-lätt",
+   "D-lätt"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39372",
+  "status": "completed",
+  "eventName": "Vinternatten",
+  "classes": [
+   "Snögubben - Lätt 2",
+   "2 km",
+   "Istappen - Medelsvår 2",
+   "9 km",
+   "Stjärnan - Svår 2",
+   "9 km",
+   "Månen - Svår 5",
+   "0 km"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39518",
+  "status": "moved",
+  "eventName": "Test",
+  "classes": [
+   "H21 Elit"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39385",
+  "status": "created",
+  "eventName": "Stadscup nr 1, Norvalla, vecka 4-5",
+  "classes": [
+   "Långa",
+   "Korta"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39536",
+  "status": "created",
+  "eventName": "Veckans bana Tjurkö",
+  "classes": [
+   "The event has no classes."
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39354",
+  "status": "completed",
+  "eventName": "96-dagars",
+  "classes": [
+   "Korta",
+   "Mellan",
+   "Långa"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39432",
+  "status": "completed",
+  "eventName": "VKC 2",
+  "classes": [
+   "Korta",
+   "Mellan",
+   "Långa"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39414",
+  "status": "completed",
+  "eventName": "Nattcup #2 och Veckans banor",
+  "classes": [
+   "Lång",
+   "Mellan",
+   "Kort",
+   "Lätt"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "38565",
+  "status": "completed",
+  "eventName": "Ramonsbana 2022:6",
+  "classes": [
+   "Långa",
+   "Mellan",
+   "Korta"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39487",
+  "status": "completed",
+  "eventName": "Stjärnnatt #2",
+  "classes": [
+   "Kort",
+   "Mellan",
+   "Lång",
+   "X-lång"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39374",
+  "status": "completed",
+  "eventName": "Vinterlund Nattorientering",
+  "classes": [
+   "Dam Lång",
+   "Dam Mellan",
+   "Dam Kort",
+   "Herr Lång",
+   "Herr Mellan",
+   "Herr Kort"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39421",
+  "status": "completed",
+  "eventName": "Nattcup #4",
+  "classes": [
+   "Svart 3",
+   "3km",
+   "Svart 4",
+   "9km",
+   "Svart 7",
+   "0km",
+   "Orange 2",
+   "2km",
+   "Vit 1",
+   "4km"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "38809",
+  "status": "completed",
+  "eventName": "OL-NV Natträning 6",
+  "classes": [
+   "Långa",
+   "Mellan",
+   "Korta",
+   "Lätta"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39467",
+  "status": "completed",
+  "eventName": "GOK Nattsprintcup #4",
+  "classes": [
+   "Blå Tåget",
+   "Brandgul",
+   "Snövit"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39540",
+  "status": "completed",
+  "eventName": "Luffarligan",
+  "classes": [
+   "The event has no classes."
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39474",
+  "status": "completed",
+  "eventName": "Veteran-OL i Vänersborg",
+  "classes": [
+   "Lång",
+   "Mellan",
+   "Kort",
+   "Lätt"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39282",
+  "status": "completed",
+  "eventName": "Karl Furu Erikström ",
+  "classes": [
+   "Korta",
+   "Mellan",
+   "Långa"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39505",
+  "status": "completed",
+  "eventName": "NattskidO 2",
+  "classes": [
+   "LÅNGA 7 KM",
+   "KORTA 4 KM"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39484",
+  "status": "entries closed",
+  "eventName": "Vinternattcup nr 4-2022",
+  "classes": [
+   "Dubbel-Diamant",
+   "Diamant",
+   "Guld",
+   "Silver",
+   "Brons",
+   "Järn",
+   "Rost",
+   "Ungdom"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39397",
+  "status": "completed",
+  "eventName": "MOF Nattcup #6",
+  "classes": [
+   "Långa",
+   "Mellan Herrar",
+   "Mellan Damer",
+   "Korta Ungdom",
+   "Korta Övriga"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39521",
+  "status": "created",
+  "eventName": "Sprint-träning v. 4",
+  "classes": [
+   "The event has no classes."
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39504",
+  "status": "completed",
+  "eventName": "Denseln och FSOK:s natt-cup 2021-22 deltävling 5",
+  "classes": [
+   "Svår lång",
+   "Svår",
+   "Mellan",
+   "Lätt",
+   "Vit"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "38380",
+  "status": "completed",
+  "eventName": "Mareld nattcup E5",
+  "classes": [
+   "Dam lång",
+   "Herr lång",
+   "Dam mellan",
+   "Herr mellan",
+   "Kort"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39531",
+  "status": "created",
+  "eventName": "VECKANS BANA  27-31/1 STRÄNGNÄS",
+  "classes": [
+   "The event has no classes."
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39171",
+  "status": "completed",
+  "eventName": "Elit Sprint dagar i Göteborg: #1 Sprint Kval",
+  "classes": [
+   "Heat 1 - Herrar",
+   "Heat 2 - Herrar",
+   "Heat 3 - Herrar",
+   "Heat 1 - Damer",
+   "Heat 2 - Damer",
+   "Heat 3 - Damer"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39262",
+  "status": "completed",
+  "eventName": "Motions-OL för veteraner och daglediga /Strand",
+  "classes": [
+   "Långa",
+   "Mellan",
+   "Korta"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39252",
+  "status": "completed",
+  "eventName": "Veteranträning",
+  "classes": [
+   "Stig",
+   "Kort",
+   "Mellan",
+   "Lång"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39500",
+  "status": "created",
+  "eventName": "Veckans bana v4-5",
+  "classes": [
+   "Kort",
+   "Mellan",
+   "Lång"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39221",
+  "status": "completed",
+  "eventName": "Elit Sprint dagar i Göteborg: #2 KO Sprint finaler",
+  "classes": [
+   "Damer",
+   "D21E–Kvart 1",
+   "D21E–Kvart 2",
+   "D21E–Kvart 3",
+   "D21E–Kvart 4",
+   "D21E–Kvart 5",
+   "D21E–Kvart 6",
+   "Herrar",
+   "H21E–Kvart 1",
+   "H21E–Kvart 2",
+   "H21E–Kvart 3",
+   "H21E–Kvart 4",
+   "H21E–Kvart 5",
+   "H21E–Kvart 6"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39472",
+  "status": "entries closed",
+  "eventName": "GBG Teknikträning",
+  "classes": [
+   "Karta med mail",
+   "Karta hos GOF",
+   "Klubbanmälan"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39429",
+  "status": "completed",
+  "eventName": "Go´nattcup etapp 5",
+  "classes": [
+   "Långa",
+   "Mellan",
+   "Mellankorta",
+   "Korta"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39236",
+  "status": "completed",
+  "eventName": "Upplandsbygden by night #4",
+  "classes": [
+   "LÅNG",
+   "KORT"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39501",
+  "status": "entries closed",
+  "eventName": "Östra Blekinges Nattcup (11)",
+  "classes": [
+   "Korta",
+   "Mellankorta",
+   "Mellan",
+   "Långa"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39490",
+  "status": "completed",
+  "eventName": "VBN deltävling 7",
+  "classes": [
+   "Lång",
+   "H Mellan",
+   "D Mellan",
+   "Kort svår",
+   "H Kort lätt",
+   "D Kort lätt"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39284",
+  "status": "completed",
+  "eventName": "Vinternatt etapp 17, Pene",
+  "classes": [
+   "Lång",
+   "Mellan",
+   "Korta",
+   "Orange",
+   "Lätt"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "38725",
+  "status": "completed",
+  "eventName": "Natt 7:an etapp 5",
+  "classes": [
+   "Dam 1",
+   "Herr 1",
+   "Dam 2",
+   "Herr 2",
+   "Dam 3",
+   "Herr 3",
+   "Dam 4",
+   "Herr 4"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39446",
+  "status": "entries closed",
+  "eventName": "Dalaoffensivens Spetsträning #2",
+  "classes": [
+   "Lång",
+   "Mellan",
+   "Kort"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39393",
+  "status": "completed",
+  "eventName": "Skaraborg by Night",
+  "classes": [
+   "Mycket Lätt 2 km Dam",
+   "Mycket Lätt 2 km Herr",
+   "Medelsvår 3 km Dam",
+   "Medelsvår 3 km Herr",
+   "Svår 3 km Dam",
+   "Svår 3 km Herr",
+   "Svår 5 km Dam",
+   "Svår 5 km Herr",
+   "Svår 7 km Dam",
+   "Svår 7 km Herr"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39205",
+  "status": "entries closed",
+  "eventName": "Elit Sprint dagar i Göteborg: #3a lugnt sprintpass",
+  "classes": [
+   "Kille",
+   "Tjej"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39207",
+  "status": "entries closed",
+  "eventName": "Elit Sprint dagar i Göteborg: #3b: lugnt skogpass medeldistans (5-6 km)",
+  "classes": [
+   "Kille",
+   "Tjej"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39208",
+  "status": "entries closed",
+  "eventName": "Elit Sprint dagar i Göteborg: #4a: lugnt sprintpass",
+  "classes": [
+   "Kille",
+   "Tjej"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39209",
+  "status": "entries closed",
+  "eventName": "Elit Sprint dagar i Göteborg: #4b: lugnt skogspass korridor med Mikro-OL (7-9 km)",
+  "classes": [
+   "Kille",
+   "Tjej"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "38931",
+  "status": "cancelled",
+  "eventName": "Gävle Indoor",
+  "classes": [
+   "Damer",
+   "Herrar",
+   "D16",
+   "H16",
+   "D14",
+   "H14",
+   "D12",
+   "H12",
+   "Gummor",
+   "Gubbar",
+   "Herrar Lätt",
+   "Damer Lätt"
+  ],
+  "openClasses": [
+   "Inskolning",
+   "U2"
+  ]
+ },
+ {
+  "id": "39556",
+  "status": "created",
+  "eventName": "Veckans UsynligO banor v 5",
+  "classes": [
+   "korta",
+   "mellan",
+   "långa"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39194",
+  "status": "completed",
+  "eventName": "Elit Sprint dagar i Göteborg - #5 Sprint Kval",
+  "classes": [
+   "Kille",
+   "Tjej",
+   "Kille-1-Röd",
+   "Kille-2-Blå",
+   "Kille-3-Grön",
+   "Tjej-1-Röd",
+   "Tjej-2-Blå",
+   "Tjej-3-Grön"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39241",
+  "status": "entries closed",
+  "eventName": "Träning OL-NV",
+  "classes": [
+   "Vit",
+   "Gul",
+   "Orange/Violett"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39534",
+  "status": "completed",
+  "eventName": "Motions-skidO Piparböle",
+  "classes": [
+   "Svår 6",
+   "4 km",
+   "Svår 3",
+   "5 km",
+   "Lätt 2",
+   "5 km",
+   "Mycket lätt 1 km"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39348",
+  "status": "cancelled",
+  "eventName": "Upptaktsträning",
+  "classes": [
+   "Grön",
+   "Vit",
+   "Gul",
+   "Orange",
+   "Svart Kort",
+   "Svart Lång"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39468",
+  "status": "entries closed",
+  "eventName": "Sprintträning bredd ungdom",
+  "classes": [
+   "H21",
+   "D21",
+   "HD12"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39519",
+  "status": "completed",
+  "eventName": "SM-träning OK Kåre",
+  "classes": [
+   "3 km",
+   "5 km",
+   "10 km"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39357",
+  "status": "created",
+  "eventName": "Poängjakt",
+  "classes": [
+   "The event has no classes."
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39013",
+  "status": "completed",
+  "eventName": "J-H Skid-O Serie 4",
+  "classes": [
+   "ÖM 2",
+   "ÖM 4",
+   "ÖM 6",
+   "ÖM 8",
+   "ÖM 10"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39382",
+  "status": "entries closed",
+  "eventName": "Vinter OL Lördag #3",
+  "classes": [
+   "7",
+   "4km",
+   "4",
+   "9km",
+   "4",
+   "4km",
+   "3",
+   "9km"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39473",
+  "status": "entries closed",
+  "eventName": "Träning SKOF ungdom",
+  "classes": [
+   "Gul",
+   "Orange/Violett"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39506",
+  "status": "created",
+  "eventName": "Teknikträning",
+  "classes": [
+   "The event has no classes."
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39210",
+  "status": "completed",
+  "eventName": "Elit Sprint dagar i Göteborg: #6: Sprint final",
+  "classes": [
+   "Kille",
+   "Tjej"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39538",
+  "status": "entries closed",
+  "eventName": "Natt-OL Marnässkogen",
+  "classes": [
+   "Medelsvår 3 km",
+   "Medelsvår 5 km",
+   "Svår 3 km",
+   "Svår 5 km"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39452",
+  "status": "cancelled",
+  "eventName": "Nattcup 1",
+  "classes": [
+   "Lätt 2",
+   "5 km",
+   "Medelsvår 3 km",
+   "Medelsvår 5 km",
+   "Svår 7 km"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39170",
+  "status": "completed",
+  "eventName": "SkidO, VOF-cup, #3, Malå",
+  "classes": [
+   "D21",
+   "H21",
+   "D16",
+   "H16",
+   "HD14",
+   "HD12"
+  ],
+  "openClasses": [
+   "Mycket lätt 2 km",
+   "Medelsvår 5 km",
+   "Svår 5 km",
+   "Svår 7 km"
+  ]
+ },
+ {
+  "id": "39215",
+  "status": "cancelled",
+  "eventName": "Valbo Indoor",
+  "classes": [
+   "The event has no classes."
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39733",
+  "status": "created",
+  "eventName": "Vinterserien",
+  "classes": [
+   "The event has no classes."
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "38966",
+  "status": "created",
+  "eventName": "Vinterträning",
+  "classes": [
+   "The event has no classes."
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39558",
+  "status": "created",
+  "eventName": "SM-träning OK Kåre veckans bana",
+  "classes": [
+   "Kort 3 km",
+   "Medle 5 km",
+   "Lång 10 km"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39342",
+  "status": "entries closed",
+  "eventName": "Elit Sprint-dagar i Göteborg: #7: Stafett",
+  "classes": [
+   "Kille",
+   "Tjej"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39165",
+  "status": "cancelled",
+  "eventName": "Gummifabriken Indoor",
+  "classes": [
+   "Herrar",
+   "Damer",
+   "Light",
+   "D16",
+   "H16",
+   "D14",
+   "H14",
+   "D12",
+   "H12",
+   "Damer/D40+",
+   "Gubbar/H40+"
+  ],
+  "openClasses": [
+   "U2",
+   "U1"
+  ]
+ },
+ {
+  "id": "39522",
+  "status": "entries closed",
+  "eventName": "Söndagsträning tillsammans med Orion",
+  "classes": [
+   "korta",
+   "Mellankort",
+   "Mellan",
+   "Lång",
+   "Längst"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39478",
+  "status": "completed",
+  "eventName": "Tjustalliansens Vintercup 6",
+  "classes": [
+   "Mini",
+   "Kort",
+   "Mellan",
+   "X-tra allt",
+   "Lång"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39334",
+  "status": "completed",
+  "eventName": "Vintercupen OK Vilse 87 Etapp 8",
+  "classes": [
+   "5 banor",
+   "4 banor",
+   "3 banor",
+   "2 banor",
+   "1 bana",
+   "Gul bana",
+   "Vit bana",
+   "Utan tid"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39227",
+  "status": "completed",
+  "eventName": "FAIK Sprint 5-dagars Etapp 3",
+  "classes": [
+   "Vit",
+   "Gul",
+   "Orange",
+   "Svart kort",
+   "Svart lång"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39161",
+  "status": "completed",
+  "eventName": "Vintercupen etapp 5",
+  "classes": [
+   "Lätt 2.5 km",
+   "Medelsvår 3.5 km",
+   "Svår 3 km",
+   "Svår 5 km",
+   "Svår 7 km"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39525",
+  "status": "completed",
+  "eventName": "Vinterserien",
+  "classes": [
+   "Bana A",
+   "Bana B",
+   "Bana C",
+   "Bana D"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39561",
+  "status": "created",
+  "eventName": "Natt OL V5 samt veckans bana",
+  "classes": [
+   "The event has no classes."
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39308",
+  "status": "cancelled",
+  "eventName": "Träningscup MTBO vinter delträning 4",
+  "classes": [
+   "The event has no classes."
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39184",
+  "status": "completed",
+  "eventName": "Vinterrace etapp 5",
+  "classes": [
+   "H-lång",
+   "D-lång",
+   "H-mellan",
+   "D-mellan",
+   "H-kort",
+   "D-kort",
+   "H-lätt",
+   "D-lätt"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39179",
+  "status": "completed",
+  "eventName": "SkidO, Mattisrundan, medel, NOF-cup #2",
+  "classes": [
+   "D21",
+   "H21",
+   "D20",
+   "H20",
+   "D18",
+   "H18",
+   "D16",
+   "H16",
+   "D14",
+   "H14",
+   "D12",
+   "H12",
+   "D10",
+   "H10",
+   "D35",
+   "H35",
+   "D45",
+   "H45",
+   "D55",
+   "H55",
+   "D65",
+   "H65",
+   "D75",
+   "H75"
+  ],
+  "openClasses": [
+   "Öppen 2",
+   "Öppen 5",
+   "Öppen 8"
+  ]
+ },
+ {
+  "id": "39378",
+  "status": "entries closed",
+  "eventName": "Vintercupen E4, SV Kretsen Skåne",
+  "classes": [
+   "D16",
+   "D17",
+   "D45",
+   "H16",
+   "H17",
+   "H45",
+   "Vitgul"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39438",
+  "status": "completed",
+  "eventName": "SkidO, Mattisnatten, NOF-cup #3",
+  "classes": [
+   "D21",
+   "H21",
+   "D20",
+   "H20",
+   "D18",
+   "H18",
+   "D16",
+   "H16",
+   "D14",
+   "H14",
+   "D12",
+   "H12",
+   "D10",
+   "H10",
+   "D35",
+   "H35",
+   "D45",
+   "H45",
+   "D55",
+   "H55",
+   "D65",
+   "H65",
+   "D75",
+   "H75"
+  ],
+  "openClasses": [
+   "Öppen 2",
+   "Öppen 5",
+   "Öppen 8"
+  ]
+ },
+ {
+  "id": "39565",
+  "status": "created",
+  "eventName": "Nattcup 1",
+  "classes": [
+   "Lätt 2",
+   "5 km",
+   "Medelsvår 3 km",
+   "Medelsvår 5 km",
+   "Svår 7 km"
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39523",
+  "status": "created",
+  "eventName": "Veckans nattbana V5 OK Linné",
+  "classes": [
+   "The event has no classes."
+  ],
+  "openClasses": [
+   ""
+  ]
+ },
+ {
+  "id": "39439",
+  "status": "completed",
+  "eventName": "Gunnars bossen",
+  "classes": [
+   "Korta",
+   "Mellan",
+   "Långa"
+  ],
+  "openClasses": [
+   ""
+  ]
+ }
+]

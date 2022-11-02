@@ -1,0 +1,3904 @@
+[
+ {
+  "Id": "43008",
+  "Status": "created",
+  "StartDateTime": "2022-10-15T09:30:00.000Z",
+  "EndDateTime": "2022-11-06T17:00:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "Gamleby OK"
+  ],
+  "Region": "Småland",
+  "EventName": "Veckans bana V42(Tjustalliansen)",
+  "EventForm": "I",
+  "EventClass": "vb",
+  "EventDiscipline": "F",
+  "EventDistance": "L",
+  "TimeOfDay": "D"
+ },
+ {
+  "Id": "43066",
+  "Status": "created",
+  "StartDateTime": "2022-10-22T09:30:00.000Z",
+  "EndDateTime": "2022-11-07T17:00:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "Gamleby OK"
+  ],
+  "Region": "Småland",
+  "EventName": "Veckans bana 42-43 (Tjustalliansen)",
+  "EventForm": "I",
+  "EventClass": "vb",
+  "EventDiscipline": "F",
+  "EventDistance": "L",
+  "TimeOfDay": "D"
+ },
+ {
+  "Id": "43096",
+  "Status": "created",
+  "StartDateTime": "2022-10-24T09:30:00.000Z",
+  "EndDateTime": "2022-11-30T17:00:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "OK Orion"
+  ],
+  "Region": "Blekinge",
+  "EventName": "Månadens bana November - Färskesjön N",
+  "EventForm": "I",
+  "EventClass": "vb",
+  "EventDiscipline": "F",
+  "EventDistance": "L",
+  "TimeOfDay": "D"
+ },
+ {
+  "Id": "43195",
+  "Status": "created",
+  "StartDateTime": "2022-10-29T09:30:00.000Z",
+  "EndDateTime": "2022-11-16T17:00:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "Karlskrona SOK"
+  ],
+  "Region": "Blekinge",
+  "EventName": "Veckans bana v.44-45 - Bastasjö",
+  "EventForm": "I",
+  "EventClass": "vb",
+  "EventDiscipline": "F",
+  "EventDistance": "L",
+  "TimeOfDay": "D"
+ },
+ {
+  "Id": "43170",
+  "Status": "created",
+  "StartDateTime": "2022-10-30T10:30:00.000Z",
+  "EndDateTime": "2022-11-06T17:00:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "Ronneby OK"
+  ],
+  "Region": "Blekinge",
+  "EventName": "Veckans dag- och nattbana Karlsnäsgården ve 44",
+  "EventForm": "I",
+  "EventClass": "vb",
+  "EventDiscipline": "F",
+  "EventDistance": "M",
+  "TimeOfDay": "D"
+ },
+ {
+  "Id": "42854",
+  "Status": "created",
+  "StartDateTime": "2022-10-31T10:30:00.000Z",
+  "EndDateTime": "2022-11-07T17:00:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "Helsingborgs SOK"
+  ],
+  "Region": "Skåne",
+  "EventName": "Veckans bana HSOK V44",
+  "EventForm": "I",
+  "EventClass": "vb",
+  "EventDiscipline": "F",
+  "EventDistance": "S",
+  "TimeOfDay": "D"
+ },
+ {
+  "Id": "38972",
+  "Status": "created",
+  "StartDateTime": "2022-11-01T10:30:00.000Z",
+  "EndDateTime": "2022-11-01T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "Ärla IF"
+  ],
+  "Region": "Södermanland",
+  "EventName": "Nattserien",
+  "EventForm": "I",
+  "EventClass": "när",
+  "EventDiscipline": "F",
+  "EventDistance": "M",
+  "TimeOfDay": "N"
+ },
+ {
+  "Id": "42870",
+  "Status": "created",
+  "StartDateTime": "2022-11-01T10:30:00.000Z",
+  "EndDateTime": "2022-11-01T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "OK Tjärnen"
+  ],
+  "Region": "Södermanland",
+  "EventName": "OK Tjärnen/OK Nalle motions-OL 221101",
+  "EventForm": "I",
+  "EventClass": "när",
+  "EventDiscipline": "F",
+  "EventDistance": "L",
+  "TimeOfDay": "D"
+ },
+ {
+  "Id": "43099",
+  "Status": "created",
+  "StartDateTime": "2022-11-01T10:30:00.000Z",
+  "EndDateTime": "2022-11-06T17:00:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "Vänersborgs SK"
+  ],
+  "Region": "Västergötland",
+  "EventName": "Motionsorientering och veckans banor i Vänersborg",
+  "EventForm": "I",
+  "EventClass": "vb",
+  "EventDiscipline": "F",
+  "EventDistance": "L",
+  "TimeOfDay": "D"
+ },
+ {
+  "Id": "43030",
+  "Status": "created",
+  "StartDateTime": "2022-11-01T10:30:00.000Z",
+  "EndDateTime": "2022-11-01T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "Katrineholms OK"
+  ],
+  "Region": "Södermanland",
+  "EventName": "Skolgårdscupen 2023 Etapp 1",
+  "EventForm": "I",
+  "EventClass": "klubb",
+  "EventDiscipline": "F",
+  "EventDistance": "S",
+  "TimeOfDay": "N"
+ },
+ {
+  "Id": "43223",
+  "Status": "created",
+  "StartDateTime": "2022-11-01T10:30:00.000Z",
+  "EndDateTime": "2022-11-01T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "OK Löftan"
+  ],
+  "Region": "Halland",
+  "EventName": "Stockacup #1",
+  "EventForm": "I",
+  "EventClass": "klubb",
+  "EventDiscipline": "F",
+  "EventDistance": "M",
+  "TimeOfDay": "N"
+ },
+ {
+  "Id": "43004",
+  "Status": "created",
+  "StartDateTime": "2022-11-01T10:30:00.000Z",
+  "EndDateTime": "2022-11-01T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "Skene Sim o IS"
+  ],
+  "Region": "Västergötland",
+  "EventName": "Natträvarnas Natt",
+  "EventForm": "I",
+  "EventClass": "när",
+  "EventDiscipline": "F",
+  "EventDistance": "L",
+  "TimeOfDay": "D"
+ },
+ {
+  "Id": "43182",
+  "Status": "created",
+  "StartDateTime": "2022-11-01T10:30:00.000Z",
+  "EndDateTime": "2022-11-01T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "Myggans Orienteringssällskap"
+  ],
+  "Region": "Västerbotten",
+  "EventName": "Nattcup I20",
+  "EventForm": "I",
+  "EventClass": "när",
+  "EventDiscipline": "F",
+  "EventDistance": "L",
+  "TimeOfDay": "N"
+ },
+ {
+  "Id": "43067",
+  "Status": "created",
+  "StartDateTime": "2022-11-02T10:30:00.000Z",
+  "EndDateTime": "2022-11-02T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "Karlskrona SOK",
+   "OK Orion"
+  ],
+  "Region": "Blekinge",
+  "EventName": "Veteranorientering Dragda",
+  "EventForm": "I",
+  "EventClass": "när",
+  "EventDiscipline": "F",
+  "EventDistance": "L",
+  "TimeOfDay": "D"
+ },
+ {
+  "Id": "43012",
+  "Status": "created",
+  "StartDateTime": "2022-11-02T10:30:00.000Z",
+  "EndDateTime": "2022-11-02T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "OK Djerf"
+  ],
+  "Region": "Värmland",
+  "EventName": "Halloween Natten",
+  "EventForm": "I",
+  "EventClass": "när",
+  "EventDiscipline": "F",
+  "EventDistance": "M",
+  "TimeOfDay": "N"
+ },
+ {
+  "Id": "43148",
+  "Status": "created",
+  "StartDateTime": "2022-11-02T10:30:00.000Z",
+  "EndDateTime": "2022-11-02T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "Ljusdals OK"
+  ],
+  "Region": "Hälsingland",
+  "EventName": "Krukmakarmästarn",
+  "EventForm": "I",
+  "EventClass": "klubb",
+  "EventDiscipline": "F",
+  "EventDistance": "L",
+  "TimeOfDay": "N"
+ },
+ {
+  "Id": "43222",
+  "Status": "created",
+  "StartDateTime": "2022-11-03T10:30:00.000Z",
+  "EndDateTime": "2022-11-07T17:00:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "Strängnäs-Malmby OL"
+  ],
+  "Region": "Södermanland",
+  "EventName": "VECKANS BANA 3-7/11 STRÄNGNÄS",
+  "EventForm": "I",
+  "EventClass": "vb",
+  "EventDiscipline": "F",
+  "EventDistance": "L",
+  "TimeOfDay": "D"
+ },
+ {
+  "Id": "41746",
+  "Status": "created",
+  "StartDateTime": "2022-11-03T10:30:00.000Z",
+  "EndDateTime": "2022-11-03T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "Sala OK"
+  ],
+  "Region": "Västmanland",
+  "EventName": "Ösbysprinten ",
+  "EventForm": "I",
+  "EventClass": "dist",
+  "EventDiscipline": "F",
+  "EventDistance": "S",
+  "TimeOfDay": "D"
+ },
+ {
+  "Id": "42639",
+  "Status": "created",
+  "StartDateTime": "2022-11-03T10:30:00.000Z",
+  "EndDateTime": "2022-11-03T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "Kristinehamns OK"
+  ],
+  "Region": "Värmland",
+  "EventName": "Motions OL för daglediga och veteraner",
+  "EventForm": "I",
+  "EventClass": "när",
+  "EventDiscipline": "F",
+  "EventDistance": "M",
+  "TimeOfDay": "D"
+ },
+ {
+  "Id": "42929",
+  "Status": "created",
+  "StartDateTime": "2022-11-03T10:30:00.000Z",
+  "EndDateTime": "2022-11-03T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "Mariestads FK"
+  ],
+  "Region": "Västergötland",
+  "EventName": "POL- Mariestads FK, Snapens Friluftsgård",
+  "EventForm": "I",
+  "EventClass": "när",
+  "EventDiscipline": "F",
+  "EventDistance": "L",
+  "TimeOfDay": "D"
+ },
+ {
+  "Id": "42667",
+  "Status": "created",
+  "StartDateTime": "2022-11-03T10:30:00.000Z",
+  "EndDateTime": "2022-11-03T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "IK Uven"
+  ],
+  "Region": "Göteborg",
+  "EventName": "Veteran-OL Göteborg",
+  "EventForm": "I",
+  "EventClass": "när",
+  "EventDiscipline": "F",
+  "EventDistance": "M",
+  "TimeOfDay": "D"
+ },
+ {
+  "Id": "41965",
+  "Status": "created",
+  "StartDateTime": "2022-11-03T10:30:00.000Z",
+  "EndDateTime": "2022-11-03T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "Göteborgs OF"
+  ],
+  "Region": "Göteborg",
+  "EventName": "GBG Teknikträning",
+  "EventForm": "I",
+  "EventClass": "när",
+  "EventDiscipline": "F",
+  "EventDistance": "S",
+  "TimeOfDay": "K"
+ },
+ {
+  "Id": "43192",
+  "Status": "created",
+  "StartDateTime": "2022-11-03T10:30:00.000Z",
+  "EndDateTime": "2022-11-03T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "Domnarvets GOIF"
+  ],
+  "Region": "Dalarna",
+  "EventName": "Nattcup #1, Vinterträningsstarten 2022-2023 ",
+  "EventForm": "I",
+  "EventClass": "när",
+  "EventDiscipline": "F",
+  "EventDistance": "L",
+  "TimeOfDay": "N"
+ },
+ {
+  "Id": "42776",
+  "Status": "created",
+  "StartDateTime": "2022-11-03T10:30:00.000Z",
+  "EndDateTime": "2022-11-03T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "OK Motala"
+  ],
+  "Region": "Östergötland",
+  "EventName": "Jerrys Nattsprint 1.",
+  "EventForm": "I",
+  "EventClass": "när",
+  "EventDiscipline": "F",
+  "EventDistance": "S",
+  "TimeOfDay": "N"
+ },
+ {
+  "Id": "42878",
+  "Status": "created",
+  "StartDateTime": "2022-11-03T10:30:00.000Z",
+  "EndDateTime": "2022-11-03T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "Halmstad OK"
+  ],
+  "Region": "Halland",
+  "EventName": "Lunkans nattcupp E1",
+  "EventForm": "I",
+  "EventClass": "klubb",
+  "EventDiscipline": "F",
+  "EventDistance": "M",
+  "TimeOfDay": "N"
+ },
+ {
+  "Id": "43107",
+  "Status": "created",
+  "StartDateTime": "2022-11-03T10:30:00.000Z",
+  "EndDateTime": "2022-11-03T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "OK Norrvirdarna"
+  ],
+  "Region": "Småland",
+  "EventName": "Vinternatt E3 Höstlovsspecial",
+  "EventForm": "I",
+  "EventClass": "klubb",
+  "EventDiscipline": "F",
+  "EventDistance": "M",
+  "TimeOfDay": "N"
+ },
+ {
+  "Id": "42968",
+  "Status": "created",
+  "StartDateTime": "2022-11-03T10:30:00.000Z",
+  "EndDateTime": "2022-11-03T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "OK Orion"
+  ],
+  "Region": "Blekinge",
+  "EventName": "Östra Blekinges Nattcup #1",
+  "EventForm": "I",
+  "EventClass": "klubb",
+  "EventDiscipline": "F",
+  "EventDistance": "L",
+  "TimeOfDay": "N"
+ },
+ {
+  "Id": "43102",
+  "Status": "created",
+  "StartDateTime": "2022-11-03T10:30:00.000Z",
+  "EndDateTime": "2022-11-03T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "OK Skogsströvarna"
+  ],
+  "Region": "Östergötland",
+  "EventName": "Nattcup OKS",
+  "EventForm": "I",
+  "EventClass": "när",
+  "EventDiscipline": "F",
+  "EventDistance": "L",
+  "TimeOfDay": "N"
+ },
+ {
+  "Id": "43085",
+  "Status": "created",
+  "StartDateTime": "2022-11-03T10:30:00.000Z",
+  "EndDateTime": "2022-11-03T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "Väsby OK"
+  ],
+  "Region": "Stockholm",
+  "EventName": "Nattsprintcup 2",
+  "EventForm": "I",
+  "EventClass": "klubb",
+  "EventDiscipline": "F",
+  "EventDistance": "S",
+  "TimeOfDay": "N"
+ },
+ {
+  "Id": "43124",
+  "Status": "created",
+  "StartDateTime": "2022-11-04T10:30:00.000Z",
+  "EndDateTime": "2022-11-04T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "Köping-Kolsva OK"
+  ],
+  "Region": "Västmanland",
+  "EventName": "Halloween-natta",
+  "EventForm": "I",
+  "EventClass": "när",
+  "EventDiscipline": "F",
+  "EventDistance": "S",
+  "TimeOfDay": "N"
+ },
+ {
+  "Id": "39883",
+  "Status": "created",
+  "StartDateTime": "2022-11-04T10:30:00.000Z",
+  "EndDateTime": "2022-11-04T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "Simrishamns OK"
+  ],
+  "Region": "Skåne",
+  "EventName": "Österlenlyser",
+  "EventForm": "I",
+  "EventClass": "när",
+  "EventDiscipline": "F",
+  "EventDistance": "S",
+  "TimeOfDay": "N"
+ },
+ {
+  "Id": "38670",
+  "Status": "created",
+  "StartDateTime": "2022-11-05T10:30:00.000Z",
+  "EndDateTime": "2022-11-05T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "OK Tyr"
+  ],
+  "Region": "Värmland",
+  "EventName": "Lången",
+  "EventForm": "I",
+  "EventClass": "dist",
+  "EventDiscipline": "F",
+  "EventDistance": "U",
+  "TimeOfDay": "D"
+ },
+ {
+  "Id": "38570",
+  "Status": "created",
+  "StartDateTime": "2022-11-05T10:30:00.000Z",
+  "EndDateTime": "2022-11-05T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "Uddevalla OK"
+  ],
+  "Region": "Bohuslän-Dals Orienteringsförbund",
+  "EventName": "Uddevallatrofén",
+  "EventForm": "P",
+  "EventClass": "när",
+  "EventDiscipline": "F",
+  "EventDistance": "L",
+  "TimeOfDay": "D"
+ },
+ {
+  "Id": "34710",
+  "Status": "created",
+  "StartDateTime": "2022-11-05T10:30:00.000Z",
+  "EndDateTime": "2022-11-05T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "Uddevalla OK"
+  ],
+  "Region": "Bohuslän-Dals Orienteringsförbund",
+  "EventName": "Uddevallatrofèn",
+  "EventForm": "I",
+  "EventClass": "dist",
+  "EventDiscipline": "F",
+  "EventDistance": "L",
+  "TimeOfDay": "D"
+ },
+ {
+  "Id": "43078",
+  "Status": "created",
+  "StartDateTime": "2022-11-05T10:30:00.000Z",
+  "EndDateTime": "2022-11-05T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "Solna OK"
+  ],
+  "Region": "Stockholm",
+  "EventName": "Barometersprinten Solna OK",
+  "EventForm": "I",
+  "EventClass": "klubb",
+  "EventDiscipline": "F",
+  "EventDistance": "S",
+  "TimeOfDay": "D"
+ },
+ {
+  "Id": "40139",
+  "Status": "created",
+  "StartDateTime": "2022-11-05T10:30:00.000Z",
+  "EndDateTime": "2022-11-05T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "Tidaholm SOK Sisu"
+  ],
+  "Region": "Västergötland",
+  "EventName": "PreO SM Dag Tidaholm ",
+  "EventForm": "I",
+  "EventClass": "mäst",
+  "EventDiscipline": "P",
+  "EventDistance": "P",
+  "TimeOfDay": "D"
+ },
+ {
+  "Id": "42671",
+  "Status": "created",
+  "StartDateTime": "2022-11-05T10:30:00.000Z",
+  "EndDateTime": "2022-11-05T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "Järfälla OK",
+   "OK Älvsjö-Örby"
+  ],
+  "Region": "Stockholm",
+  "EventName": "Lång-KM 2022 Järfälla OK",
+  "EventForm": "I",
+  "EventClass": "klubb",
+  "EventDiscipline": "F",
+  "EventDistance": "L",
+  "TimeOfDay": "D"
+ },
+ {
+  "Id": "36761",
+  "Status": "created",
+  "StartDateTime": "2022-11-06T10:30:00.000Z",
+  "EndDateTime": "2022-11-06T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "Snättringe SK"
+  ],
+  "Region": "Stockholm",
+  "EventName": "Höstlunken",
+  "EventForm": "P",
+  "EventClass": "dist",
+  "EventDiscipline": "F",
+  "EventDistance": "U",
+  "TimeOfDay": "D"
+ },
+ {
+  "Id": "38671",
+  "Status": "created",
+  "StartDateTime": "2022-11-06T10:30:00.000Z",
+  "EndDateTime": "2022-11-06T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "OK Tyr"
+  ],
+  "Region": "Värmland",
+  "EventName": "Korten",
+  "EventForm": "I",
+  "EventClass": "dist",
+  "EventDiscipline": "F",
+  "EventDistance": "M",
+  "TimeOfDay": "D"
+ },
+ {
+  "Id": "42515",
+  "Status": "created",
+  "StartDateTime": "2022-11-06T10:30:00.000Z",
+  "EndDateTime": "2022-11-06T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "FK Herkules"
+  ],
+  "Region": "Göteborg",
+  "EventName": "KM knock-out-sprint Gbg syd",
+  "EventForm": "I",
+  "EventClass": "klubb",
+  "EventDiscipline": "F",
+  "EventDistance": "S",
+  "TimeOfDay": "D"
+ },
+ {
+  "Id": "40140",
+  "Status": "created",
+  "StartDateTime": "2022-11-06T10:30:00.000Z",
+  "EndDateTime": "2022-11-06T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "Tidaholm SOK Sisu"
+  ],
+  "Region": "Västergötland",
+  "EventName": "PreO SM Tempo Tidaholm ",
+  "EventForm": "I",
+  "EventClass": "mäst",
+  "EventDiscipline": "P",
+  "EventDistance": "T",
+  "TimeOfDay": "D"
+ },
+ {
+  "Id": "43133",
+  "Status": "created",
+  "StartDateTime": "2022-11-06T10:30:00.000Z",
+  "EndDateTime": "2022-11-06T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "Tibro OK"
+  ],
+  "Region": "Västergötland",
+  "EventName": "Tibro Ok - Handikappen",
+  "EventForm": "I",
+  "EventClass": "när",
+  "EventDiscipline": "F",
+  "EventDistance": "M",
+  "TimeOfDay": "D"
+ },
+ {
+  "Id": "43028",
+  "Status": "created",
+  "StartDateTime": "2022-11-06T10:30:00.000Z",
+  "EndDateTime": "2022-11-06T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "Valbo AIF"
+  ],
+  "Region": "Gästrikland",
+  "EventName": "Novemberflåset 2022",
+  "EventForm": "I",
+  "EventClass": "när",
+  "EventDiscipline": "F",
+  "EventDistance": "L",
+  "TimeOfDay": "D"
+ },
+ {
+  "Id": "43199",
+  "Status": "created",
+  "StartDateTime": "2022-11-06T10:30:00.000Z",
+  "EndDateTime": "2022-11-06T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "Skogslöparna"
+  ],
+  "Region": "Ångermanland",
+  "EventName": "Klubbmästerskap, medeldistans",
+  "EventForm": "I",
+  "EventClass": "när",
+  "EventDiscipline": "F",
+  "EventDistance": "M",
+  "TimeOfDay": "D"
+ },
+ {
+  "Id": "42899",
+  "Status": "created",
+  "StartDateTime": "2022-11-06T10:30:00.000Z",
+  "EndDateTime": "2022-11-06T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "Göteborg-Majorna OK",
+   "OK Landehof"
+  ],
+  "Region": "Göteborg",
+  "EventName": "OL-skytte Mitt i Prick i Väst #5",
+  "EventForm": "I",
+  "EventClass": "när",
+  "EventDiscipline": "Y",
+  "EventDistance": "M",
+  "TimeOfDay": "D"
+ },
+ {
+  "Id": "43149",
+  "Status": "created",
+  "StartDateTime": "2022-11-07T10:30:00.000Z",
+  "EndDateTime": "2022-11-07T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "Ljusdals OK"
+  ],
+  "Region": "Hälsingland",
+  "EventName": "Två svarta och en vit",
+  "EventForm": "I",
+  "EventClass": "klubb",
+  "EventDiscipline": "F",
+  "EventDistance": "L",
+  "TimeOfDay": "N"
+ },
+ {
+  "Id": "42855",
+  "Status": "created",
+  "StartDateTime": "2022-11-07T10:30:00.000Z",
+  "EndDateTime": "2022-11-14T17:00:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "Helsingborgs SOK"
+  ],
+  "Region": "Skåne",
+  "EventName": "Veckans bana HSOK V45",
+  "EventForm": "I",
+  "EventClass": "vb",
+  "EventDiscipline": "F",
+  "EventDistance": "S",
+  "TimeOfDay": "D"
+ },
+ {
+  "Id": "41435",
+  "Status": "created",
+  "StartDateTime": "2022-11-08T10:30:00.000Z",
+  "EndDateTime": "2022-11-08T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "Attunda OK",
+   "Karlbergs SIF",
+   "Stockholms OF"
+  ],
+  "Region": "Stockholm",
+  "EventName": "Pampas Nattungdomsstafett",
+  "EventForm": "S",
+  "EventClass": "dist",
+  "EventDiscipline": "F",
+  "EventDistance": "S",
+  "TimeOfDay": "N"
+ },
+ {
+  "Id": "42989",
+  "Status": "created",
+  "StartDateTime": "2022-11-08T10:30:00.000Z",
+  "EndDateTime": "2022-11-08T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "Ärla IF"
+  ],
+  "Region": "Södermanland",
+  "EventName": "Veteran-OL",
+  "EventForm": "I",
+  "EventClass": "när",
+  "EventDiscipline": "F",
+  "EventDistance": "L",
+  "TimeOfDay": "D"
+ },
+ {
+  "Id": "42842",
+  "Status": "created",
+  "StartDateTime": "2022-11-08T10:30:00.000Z",
+  "EndDateTime": "2022-11-08T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "Motala AIF OL"
+  ],
+  "Region": "Östergötland",
+  "EventName": "Ramons Bana 2023:2",
+  "EventForm": "I",
+  "EventClass": "klubb",
+  "EventDiscipline": "F",
+  "EventDistance": "L",
+  "TimeOfDay": "N"
+ },
+ {
+  "Id": "43136",
+  "Status": "created",
+  "StartDateTime": "2022-11-08T10:30:00.000Z",
+  "EndDateTime": "2022-11-08T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "Lunds OK"
+  ],
+  "Region": "Skåne",
+  "EventName": "Lunds OK Nattcup 2022 etapp 1",
+  "EventForm": "I",
+  "EventClass": "när",
+  "EventDiscipline": "F",
+  "EventDistance": "L",
+  "TimeOfDay": "N"
+ },
+ {
+  "Id": "43042",
+  "Status": "created",
+  "StartDateTime": "2022-11-08T10:30:00.000Z",
+  "EndDateTime": "2022-11-08T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "Surahammars SOK"
+  ],
+  "Region": "Västmanland",
+  "EventName": "Natt-serien",
+  "EventForm": "I",
+  "EventClass": "när",
+  "EventDiscipline": "F",
+  "EventDistance": "L",
+  "TimeOfDay": "N"
+ },
+ {
+  "Id": "42925",
+  "Status": "created",
+  "StartDateTime": "2022-11-08T10:30:00.000Z",
+  "EndDateTime": "2022-11-08T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "Gustavsbergs OK"
+  ],
+  "Region": "Stockholm",
+  "EventName": "GOK Natt KM 2022",
+  "EventForm": "I",
+  "EventClass": "klubb",
+  "EventDiscipline": "F",
+  "EventDistance": "L",
+  "TimeOfDay": "N"
+ },
+ {
+  "Id": "43221",
+  "Status": "created",
+  "StartDateTime": "2022-11-08T10:30:00.000Z",
+  "EndDateTime": "2022-11-08T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "Västerviks OK"
+  ],
+  "Region": "Småland",
+  "EventName": "Tjustalliansens Nattcup #1",
+  "EventForm": "I",
+  "EventClass": "när",
+  "EventDiscipline": "F",
+  "EventDistance": "L",
+  "TimeOfDay": "N"
+ },
+ {
+  "Id": "42919",
+  "Status": "created",
+  "StartDateTime": "2022-11-08T10:30:00.000Z",
+  "EndDateTime": "2022-11-08T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "Nyköpings OK"
+  ],
+  "Region": "Södermanland",
+  "EventName": "Öppet Natt KM",
+  "EventForm": "I",
+  "EventClass": "klubb",
+  "EventDiscipline": "F",
+  "EventDistance": "L",
+  "TimeOfDay": "N"
+ },
+ {
+  "Id": "43186",
+  "Status": "created",
+  "StartDateTime": "2022-11-08T10:30:00.000Z",
+  "EndDateTime": "2022-11-08T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "OK Klemmingen"
+  ],
+  "Region": "Södermanland",
+  "EventName": "Natt-KM + GTNC-1 2022",
+  "EventForm": "I",
+  "EventClass": "klubb",
+  "EventDiscipline": "F",
+  "EventDistance": "L",
+  "TimeOfDay": "N"
+ },
+ {
+  "Id": "42933",
+  "Status": "created",
+  "StartDateTime": "2022-11-09T10:30:00.000Z",
+  "EndDateTime": "2022-11-09T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "Växjö AIS"
+  ],
+  "Region": "Småland",
+  "EventName": "Veteranorientering",
+  "EventForm": "I",
+  "EventClass": "när",
+  "EventDiscipline": "F",
+  "EventDistance": "L",
+  "TimeOfDay": "D"
+ },
+ {
+  "Id": "43080",
+  "Status": "created",
+  "StartDateTime": "2022-11-09T10:30:00.000Z",
+  "EndDateTime": "2022-11-09T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "Skogslöparna"
+  ],
+  "Region": "Ångermanland",
+  "EventName": "Höstcup 3, medel",
+  "EventForm": "I",
+  "EventClass": "klubb",
+  "EventDiscipline": "F",
+  "EventDistance": "M",
+  "TimeOfDay": "N"
+ },
+ {
+  "Id": "43150",
+  "Status": "created",
+  "StartDateTime": "2022-11-09T10:30:00.000Z",
+  "EndDateTime": "2022-11-09T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "Ljusdals OK"
+  ],
+  "Region": "Hälsingland",
+  "EventName": "sCallerormslöpet",
+  "EventForm": "I",
+  "EventClass": "klubb",
+  "EventDiscipline": "F",
+  "EventDistance": "L",
+  "TimeOfDay": "N"
+ },
+ {
+  "Id": "42698",
+  "Status": "created",
+  "StartDateTime": "2022-11-09T10:30:00.000Z",
+  "EndDateTime": "2022-11-09T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "Göteborgs OF",
+   "IFK Göteborg Orientering"
+  ],
+  "Region": "Göteborg",
+  "EventName": "Ungdomsnatt etapp 3",
+  "EventForm": "I",
+  "EventClass": "när",
+  "EventDiscipline": "F",
+  "EventDistance": "L",
+  "TimeOfDay": "N"
+ },
+ {
+  "Id": "43061",
+  "Status": "created",
+  "StartDateTime": "2022-11-09T10:30:00.000Z",
+  "EndDateTime": "2022-11-09T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "Stigmännen Karlshamns OK"
+  ],
+  "Region": "Blekinge",
+  "EventName": "KM-natt",
+  "EventForm": "I",
+  "EventClass": "klubb",
+  "EventDiscipline": "F",
+  "EventDistance": "L",
+  "TimeOfDay": "N"
+ },
+ {
+  "Id": "43201",
+  "Status": "created",
+  "StartDateTime": "2022-11-09T10:30:00.000Z",
+  "EndDateTime": "2022-11-09T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "Sundsvalls OK"
+  ],
+  "Region": "Medelpad",
+  "EventName": "MOFs Nattcup 1",
+  "EventForm": "I",
+  "EventClass": "när",
+  "EventDiscipline": "F",
+  "EventDistance": "L",
+  "TimeOfDay": "N"
+ },
+ {
+  "Id": "42916",
+  "Status": "created",
+  "StartDateTime": "2022-01-10T10:30:00.000Z",
+  "EndDateTime": "2022-01-10T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "OK Tor"
+  ],
+  "Region": "Södermanland",
+  "EventName": "OK TOR Veteran-OL 22-11-10",
+  "EventForm": "I",
+  "EventClass": "när",
+  "EventDiscipline": "F",
+  "EventDistance": "L",
+  "TimeOfDay": "D"
+ },
+ {
+  "Id": "42640",
+  "Status": "created",
+  "StartDateTime": "2022-01-10T10:30:00.000Z",
+  "EndDateTime": "2022-01-10T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "Kristinehamns OK"
+  ],
+  "Region": "Värmland",
+  "EventName": "Motions OL för daglediga och veteraner",
+  "EventForm": "I",
+  "EventClass": "när",
+  "EventDiscipline": "F",
+  "EventDistance": "M",
+  "TimeOfDay": "D"
+ },
+ {
+  "Id": "43227",
+  "Status": "created",
+  "StartDateTime": "2022-01-10T10:30:00.000Z",
+  "EndDateTime": "2022-01-10T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "Gamleby OK"
+  ],
+  "Region": "Småland",
+  "EventName": "Veteran OL Gamleby OK",
+  "EventForm": "I",
+  "EventClass": "när",
+  "EventDiscipline": "F",
+  "EventDistance": "L",
+  "TimeOfDay": "D"
+ },
+ {
+  "Id": "43097",
+  "Status": "created",
+  "StartDateTime": "2022-01-10T10:30:00.000Z",
+  "EndDateTime": "2022-01-10T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "Snättringe SK"
+  ],
+  "Region": "Stockholm",
+  "EventName": "NattKM - ungdom",
+  "EventForm": "I",
+  "EventClass": "klubb",
+  "EventDiscipline": "F",
+  "EventDistance": "M",
+  "TimeOfDay": "N"
+ },
+ {
+  "Id": "42770",
+  "Status": "created",
+  "StartDateTime": "2022-01-10T10:30:00.000Z",
+  "EndDateTime": "2022-01-10T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "Malmö OK"
+  ],
+  "Region": "Skåne",
+  "EventName": "Bokskogsnatta",
+  "EventForm": "I",
+  "EventClass": "klubb",
+  "EventDiscipline": "F",
+  "EventDistance": "L",
+  "TimeOfDay": "N"
+ },
+ {
+  "Id": "41966",
+  "Status": "created",
+  "StartDateTime": "2022-01-10T10:30:00.000Z",
+  "EndDateTime": "2022-01-10T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "Göteborgs OF"
+  ],
+  "Region": "Göteborg",
+  "EventName": "GBG Teknikträning",
+  "EventForm": "I",
+  "EventClass": "när",
+  "EventDiscipline": "F",
+  "EventDistance": "M",
+  "TimeOfDay": "K"
+ },
+ {
+  "Id": "43019",
+  "Status": "created",
+  "StartDateTime": "2022-01-10T10:30:00.000Z",
+  "EndDateTime": "2022-01-10T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "Söderhamns OK"
+  ],
+  "Region": "Hälsingland",
+  "EventName": "Granskärsnatt - (Söderhamn Öst)",
+  "EventForm": "I",
+  "EventClass": "klubb",
+  "EventDiscipline": "F",
+  "EventDistance": "L",
+  "TimeOfDay": "N"
+ },
+ {
+  "Id": "43196",
+  "Status": "created",
+  "StartDateTime": "2022-01-10T10:30:00.000Z",
+  "EndDateTime": "2022-01-10T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "Nässjö OK"
+  ],
+  "Region": "Småland",
+  "EventName": "Natt-KM 2022",
+  "EventForm": "I",
+  "EventClass": "klubb",
+  "EventDiscipline": "F",
+  "EventDistance": "L",
+  "TimeOfDay": "N"
+ },
+ {
+  "Id": "43108",
+  "Status": "created",
+  "StartDateTime": "2022-01-10T10:30:00.000Z",
+  "EndDateTime": "2022-01-10T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "OK Landehof"
+  ],
+  "Region": "Göteborg",
+  "EventName": "OK Landehof Nattcup Etapp 1",
+  "EventForm": "I",
+  "EventClass": "när",
+  "EventDiscipline": "F",
+  "EventDistance": "L",
+  "TimeOfDay": "N"
+ },
+ {
+  "Id": "43018",
+  "Status": "created",
+  "StartDateTime": "2022-01-10T10:30:00.000Z",
+  "EndDateTime": "2022-01-10T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "Växjö OK"
+  ],
+  "Region": "Småland",
+  "EventName": "Vinternatt etapp4 22/23",
+  "EventForm": "I",
+  "EventClass": "klubb",
+  "EventDiscipline": "F",
+  "EventDistance": "L",
+  "TimeOfDay": "N"
+ },
+ {
+  "Id": "43141",
+  "Status": "created",
+  "StartDateTime": "2022-01-10T10:30:00.000Z",
+  "EndDateTime": "2022-01-10T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "Karlskrona SOK",
+   "OK Orion"
+  ],
+  "Region": "Blekinge",
+  "EventName": "Östra Blekinges Nattcup etapp 2",
+  "EventForm": "I",
+  "EventClass": "när",
+  "EventDiscipline": "F",
+  "EventDistance": "L",
+  "TimeOfDay": "N"
+ },
+ {
+  "Id": "43185",
+  "Status": "created",
+  "StartDateTime": "2022-01-10T10:30:00.000Z",
+  "EndDateTime": "2022-01-10T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "Väsby OK"
+  ],
+  "Region": "Stockholm",
+  "EventName": "Nattsprintcup 3",
+  "EventForm": "I",
+  "EventClass": "klubb",
+  "EventDiscipline": "F",
+  "EventDistance": "S",
+  "TimeOfDay": "N"
+ },
+ {
+  "Id": "42955",
+  "Status": "created",
+  "StartDateTime": "2022-01-11T10:30:00.000Z",
+  "EndDateTime": "2022-01-11T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "Garphyttans IF"
+  ],
+  "Region": "Örebro Län",
+  "EventName": "GIF Öppet Natt-KM",
+  "EventForm": "I",
+  "EventClass": "klubb",
+  "EventDiscipline": "F",
+  "EventDistance": "M",
+  "TimeOfDay": "N"
+ },
+ {
+  "Id": "38131",
+  "Status": "created",
+  "StartDateTime": "2022-01-11T10:30:00.000Z",
+  "EndDateTime": "2022-01-11T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "Borås GIF"
+  ],
+  "Region": "Västergötland",
+  "EventName": "O-event, dag 1, Sprint by Night",
+  "EventForm": "I",
+  "EventClass": "nat",
+  "EventDiscipline": "F",
+  "EventDistance": "S",
+  "TimeOfDay": "N"
+ },
+ {
+  "Id": "42803",
+  "Status": "created",
+  "StartDateTime": "2022-01-12T10:30:00.000Z",
+  "EndDateTime": "2022-01-12T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "Väsby OK"
+  ],
+  "Region": "Stockholm",
+  "EventName": "Nordcupen #2 medel",
+  "EventForm": "I",
+  "EventClass": "när",
+  "EventDiscipline": "F",
+  "EventDistance": "M",
+  "TimeOfDay": "D"
+ },
+ {
+  "Id": "36762",
+  "Status": "created",
+  "StartDateTime": "2022-01-12T10:30:00.000Z",
+  "EndDateTime": "2022-01-12T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "Tullinge SK"
+  ],
+  "Region": "Stockholm",
+  "EventName": "Novembertävlingarna, medel",
+  "EventForm": "I",
+  "EventClass": "dist",
+  "EventDiscipline": "F",
+  "EventDistance": "M",
+  "TimeOfDay": "D"
+ },
+ {
+  "Id": "35320",
+  "Status": "created",
+  "StartDateTime": "2022-01-12T10:30:00.000Z",
+  "EndDateTime": "2022-01-12T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "Hestra IF"
+  ],
+  "Region": "Västergötland",
+  "EventName": "O-event, dag 2, Downhill sprint",
+  "EventForm": "I",
+  "EventClass": "nat",
+  "EventDiscipline": "F",
+  "EventDistance": "S",
+  "TimeOfDay": "D"
+ },
+ {
+  "Id": "42954",
+  "Status": "created",
+  "StartDateTime": "2022-01-12T10:30:00.000Z",
+  "EndDateTime": "2022-01-12T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "Häverödals SK"
+  ],
+  "Region": "Upplands Orienteringsförbund",
+  "EventName": "Öppet Roslagsmästerskap Sprint",
+  "EventForm": "I",
+  "EventClass": "när",
+  "EventDiscipline": "F",
+  "EventDistance": "S",
+  "TimeOfDay": "D"
+ },
+ {
+  "Id": "43202",
+  "Status": "created",
+  "StartDateTime": "2022-11-12T10:30:00.000Z",
+  "EndDateTime": "2022-11-13T17:00:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "IS Kullen"
+  ],
+  "Region": "Skåne",
+  "EventName": "Poängjakt",
+  "EventForm": "I",
+  "EventClass": "när",
+  "EventDiscipline": "F",
+  "EventDistance": "M",
+  "TimeOfDay": "D"
+ },
+ {
+  "Id": "43106",
+  "Status": "created",
+  "StartDateTime": "2022-01-12T10:30:00.000Z",
+  "EndDateTime": "2022-01-12T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "OK Klemmingen"
+  ],
+  "Region": "Södermanland",
+  "EventName": "Mälarcupen #3 OL-skytte",
+  "EventForm": "I",
+  "EventClass": "när",
+  "EventDiscipline": "LY",
+  "EventDistance": "S",
+  "TimeOfDay": "D"
+ },
+ {
+  "Id": "43232",
+  "Status": "created",
+  "StartDateTime": "2022-01-12T10:30:00.000Z",
+  "EndDateTime": "2022-01-12T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "Västerbottens OF"
+  ],
+  "Region": "Västerbotten",
+  "EventName": "OGala-sprinten",
+  "EventForm": "I",
+  "EventClass": "när",
+  "EventDiscipline": "F",
+  "EventDistance": "S",
+  "TimeOfDay": "D"
+ },
+ {
+  "Id": "43231",
+  "Status": "created",
+  "StartDateTime": "2022-01-12T10:30:00.000Z",
+  "EndDateTime": "2022-01-12T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "Västerås SOK"
+  ],
+  "Region": "Västmanland",
+  "EventName": "Öppet Kortdistans-KM Natt",
+  "EventForm": "I",
+  "EventClass": "klubb",
+  "EventDiscipline": "F",
+  "EventDistance": "M",
+  "TimeOfDay": "N"
+ },
+ {
+  "Id": "36763",
+  "Status": "created",
+  "StartDateTime": "2022-01-13T10:30:00.000Z",
+  "EndDateTime": "2022-01-13T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "Tullinge SK"
+  ],
+  "Region": "Stockholm",
+  "EventName": "Novembertävlingarna, lång",
+  "EventForm": "I",
+  "EventClass": "dist",
+  "EventDiscipline": "F",
+  "EventDistance": "L",
+  "TimeOfDay": "D"
+ },
+ {
+  "Id": "35309",
+  "Status": "created",
+  "StartDateTime": "2022-01-13T10:30:00.000Z",
+  "EndDateTime": "2022-01-13T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "IK Ymer"
+  ],
+  "Region": "Västergötland",
+  "EventName": "O-event, dag 3, Zoorientering",
+  "EventForm": "I",
+  "EventClass": "nat",
+  "EventDiscipline": "F",
+  "EventDistance": "S",
+  "TimeOfDay": "D"
+ },
+ {
+  "Id": "43040",
+  "Status": "created",
+  "StartDateTime": "2022-01-13T10:30:00.000Z",
+  "EndDateTime": "2022-01-13T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "OK Kolmården"
+  ],
+  "Region": "Östergötland",
+  "EventName": "Lång KM med säsongsavslutning",
+  "EventForm": "I",
+  "EventClass": "klubb",
+  "EventDiscipline": "F",
+  "EventDistance": "L",
+  "TimeOfDay": "D"
+ },
+ {
+  "Id": "43229",
+  "Status": "created",
+  "StartDateTime": "2022-01-13T10:30:00.000Z",
+  "EndDateTime": "2022-01-13T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "OK Pan-Kristianstad"
+  ],
+  "Region": "Skåne",
+  "EventName": "MTBO Äspet Åhus",
+  "EventForm": "I",
+  "EventClass": "när",
+  "EventDiscipline": "M",
+  "EventDistance": "L",
+  "TimeOfDay": "D"
+ },
+ {
+  "Id": "43131",
+  "Status": "created",
+  "StartDateTime": "2022-01-13T10:30:00.000Z",
+  "EndDateTime": "2022-01-13T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "Söderhamns OK"
+  ],
+  "Region": "Hälsingland",
+  "EventName": "Buddanatta",
+  "EventForm": "I",
+  "EventClass": "när",
+  "EventDiscipline": "F",
+  "EventDistance": "M",
+  "TimeOfDay": "N"
+ },
+ {
+  "Id": "43151",
+  "Status": "created",
+  "StartDateTime": "2022-01-14T10:30:00.000Z",
+  "EndDateTime": "2022-01-14T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "Ljusdals OK"
+  ],
+  "Region": "Hälsingland",
+  "EventName": "Fredman Norr IK",
+  "EventForm": "I",
+  "EventClass": "klubb",
+  "EventDiscipline": "F",
+  "EventDistance": "L",
+  "TimeOfDay": "N"
+ },
+ {
+  "Id": "42927",
+  "Status": "created",
+  "StartDateTime": "2022-01-15T10:30:00.000Z",
+  "EndDateTime": "2022-01-15T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "Nyköpings OK"
+  ],
+  "Region": "Södermanland",
+  "EventName": "Veteran-OL i Nyköping",
+  "EventForm": "I",
+  "EventClass": "när",
+  "EventDiscipline": "F",
+  "EventDistance": "L",
+  "TimeOfDay": "D"
+ },
+ {
+  "Id": "42970",
+  "Status": "created",
+  "StartDateTime": "2022-01-15T10:30:00.000Z",
+  "EndDateTime": "2022-01-15T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "Järla Orientering"
+  ],
+  "Region": "Stockholm",
+  "EventName": "Gamla Järlas Backtävlingar",
+  "EventForm": "I",
+  "EventClass": "klubb",
+  "EventDiscipline": "F",
+  "EventDistance": "S",
+  "TimeOfDay": "N"
+ },
+ {
+  "Id": "43137",
+  "Status": "created",
+  "StartDateTime": "2022-01-15T10:30:00.000Z",
+  "EndDateTime": "2022-01-15T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "Lunds OK"
+  ],
+  "Region": "Skåne",
+  "EventName": "Lunds OK Nattcup 2022 etapp 2",
+  "EventForm": "I",
+  "EventClass": "när",
+  "EventDiscipline": "F",
+  "EventDistance": "L",
+  "TimeOfDay": "N"
+ },
+ {
+  "Id": "43158",
+  "Status": "created",
+  "StartDateTime": "2022-01-15T10:30:00.000Z",
+  "EndDateTime": "2022-01-15T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "FK Boken",
+   "Helsingborgs SOK",
+   "Hjärnarps OL",
+   "OK Kompassen",
+   "Örkelljunga FK"
+  ],
+  "Region": "Skåne",
+  "EventName": "OL-NV Natträning 1",
+  "EventForm": "I",
+  "EventClass": "klubb",
+  "EventDiscipline": "F",
+  "EventDistance": "L",
+  "TimeOfDay": "N"
+ },
+ {
+  "Id": "36764",
+  "Status": "created",
+  "StartDateTime": "2022-01-16T10:30:00.000Z",
+  "EndDateTime": "2022-01-16T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "Väsby OK"
+  ],
+  "Region": "Stockholm",
+  "EventName": "Mareld Stockholm by Night, #1",
+  "EventForm": "I",
+  "EventClass": "dist",
+  "EventDiscipline": "F",
+  "EventDistance": "L",
+  "TimeOfDay": "N"
+ },
+ {
+  "Id": "42990",
+  "Status": "created",
+  "StartDateTime": "2022-01-16T10:30:00.000Z",
+  "EndDateTime": "2022-01-16T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "Tullinge SK"
+  ],
+  "Region": "Stockholm",
+  "EventName": "Luffarligan, TSK-stugan, Brantbrinks IP",
+  "EventForm": "I",
+  "EventClass": "när",
+  "EventDiscipline": "F",
+  "EventDistance": "L",
+  "TimeOfDay": "D"
+ },
+ {
+  "Id": "43226",
+  "Status": "created",
+  "StartDateTime": "2022-01-16T10:30:00.000Z",
+  "EndDateTime": "2022-01-16T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "Nybro OK"
+  ],
+  "Region": "Småland",
+  "EventName": "Veteran OL Nybro",
+  "EventForm": "I",
+  "EventClass": "klubb",
+  "EventDiscipline": "F",
+  "EventDistance": "L",
+  "TimeOfDay": "D"
+ },
+ {
+  "Id": "43109",
+  "Status": "created",
+  "StartDateTime": "2022-01-16T10:30:00.000Z",
+  "EndDateTime": "2022-01-16T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "Skogslöparna"
+  ],
+  "Region": "Ångermanland",
+  "EventName": "Höstcup 4, lång",
+  "EventForm": "I",
+  "EventClass": "klubb",
+  "EventDiscipline": "F",
+  "EventDistance": "L",
+  "TimeOfDay": "D"
+ },
+ {
+  "Id": "43152",
+  "Status": "created",
+  "StartDateTime": "2022-01-16T10:30:00.000Z",
+  "EndDateTime": "2022-01-16T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "Ljusdals OK"
+  ],
+  "Region": "Hälsingland",
+  "EventName": "Lexingen",
+  "EventForm": "I",
+  "EventClass": "klubb",
+  "EventDiscipline": "F",
+  "EventDistance": "L",
+  "TimeOfDay": "N"
+ },
+ {
+  "Id": "43105",
+  "Status": "created",
+  "StartDateTime": "2022-01-16T10:30:00.000Z",
+  "EndDateTime": "2022-01-16T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "Rasbo IK",
+   "Upplands Orienteringsförbund"
+  ],
+  "Region": "Upplands Orienteringsförbund",
+  "EventName": "Upplandsbygden By Night (UBN) Etapp 1",
+  "EventForm": "I",
+  "EventClass": "när",
+  "EventDiscipline": "F",
+  "EventDistance": "L",
+  "TimeOfDay": "N"
+ },
+ {
+  "Id": "43007",
+  "Status": "created",
+  "StartDateTime": "2022-01-16T10:30:00.000Z",
+  "EndDateTime": "2022-01-16T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "Kils OK"
+  ],
+  "Region": "Värmland",
+  "EventName": "Kylklampen deltävling 1",
+  "EventForm": "I",
+  "EventClass": "när",
+  "EventDiscipline": "F",
+  "EventDistance": "L",
+  "TimeOfDay": "N"
+ },
+ {
+  "Id": "42547",
+  "Status": "created",
+  "StartDateTime": "2022-01-17T10:30:00.000Z",
+  "EndDateTime": "2022-01-17T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "Chalmers OL",
+   "Göteborgs OF"
+  ],
+  "Region": "Göteborg",
+  "EventName": "Mareld Nattcup E2",
+  "EventForm": "I",
+  "EventClass": "när",
+  "EventDiscipline": "F",
+  "EventDistance": "M",
+  "TimeOfDay": "N"
+ },
+ {
+  "Id": "43189",
+  "Status": "created",
+  "StartDateTime": "2022-01-17T10:30:00.000Z",
+  "EndDateTime": "2022-01-17T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "Ulricehamns OK"
+  ],
+  "Region": "Västergötland",
+  "EventName": "Natt 7:an etapp 1",
+  "EventForm": "I",
+  "EventClass": "när",
+  "EventDiscipline": "F",
+  "EventDistance": "L",
+  "TimeOfDay": "N"
+ },
+ {
+  "Id": "42641",
+  "Status": "created",
+  "StartDateTime": "2022-01-17T10:30:00.000Z",
+  "EndDateTime": "2022-01-17T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "Kristinehamns OK"
+  ],
+  "Region": "Värmland",
+  "EventName": "Motions OL för daglediga och veteraner",
+  "EventForm": "I",
+  "EventClass": "när",
+  "EventDiscipline": "F",
+  "EventDistance": "M",
+  "TimeOfDay": "D"
+ },
+ {
+  "Id": "43011",
+  "Status": "created",
+  "StartDateTime": "2022-01-17T10:30:00.000Z",
+  "EndDateTime": "2022-01-17T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "Sävedalens AIK"
+  ],
+  "Region": "Göteborg",
+  "EventName": "Veteran OL",
+  "EventForm": "I",
+  "EventClass": "när",
+  "EventDiscipline": "F",
+  "EventDistance": "M",
+  "TimeOfDay": "D"
+ },
+ {
+  "Id": "43118",
+  "Status": "created",
+  "StartDateTime": "2022-01-17T10:30:00.000Z",
+  "EndDateTime": "2022-01-17T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "Svenska Orienteringsförbundet"
+  ],
+  "Region": "",
+  "EventName": "Landslagets Höstsamling - Öppna träningar | #1 Masstart Diamant",
+  "EventForm": "I",
+  "EventClass": "klubb",
+  "EventDiscipline": "F",
+  "EventDistance": "L",
+  "TimeOfDay": "N"
+ },
+ {
+  "Id": "41967",
+  "Status": "created",
+  "StartDateTime": "2022-01-17T10:30:00.000Z",
+  "EndDateTime": "2022-01-17T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "Göteborgs OF"
+  ],
+  "Region": "Göteborg",
+  "EventName": "GBG Teknikträning",
+  "EventForm": "I",
+  "EventClass": "när",
+  "EventDiscipline": "F",
+  "EventDistance": "L",
+  "TimeOfDay": "K"
+ },
+ {
+  "Id": "42777",
+  "Status": "created",
+  "StartDateTime": "2022-01-17T10:30:00.000Z",
+  "EndDateTime": "2022-01-17T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "OK Motala"
+  ],
+  "Region": "Östergötland",
+  "EventName": "Jerrys Nattsprint 2.",
+  "EventForm": "I",
+  "EventClass": "när",
+  "EventDiscipline": "F",
+  "EventDistance": "S",
+  "TimeOfDay": "N"
+ },
+ {
+  "Id": "42880",
+  "Status": "created",
+  "StartDateTime": "2022-01-17T10:30:00.000Z",
+  "EndDateTime": "2022-01-17T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "Halmstad OK"
+  ],
+  "Region": "Halland",
+  "EventName": "Lunkans nattcup E2",
+  "EventForm": "I",
+  "EventClass": "när",
+  "EventDiscipline": "F",
+  "EventDistance": "M",
+  "TimeOfDay": "N"
+ },
+ {
+  "Id": "43217",
+  "Status": "created",
+  "StartDateTime": "2022-01-17T10:30:00.000Z",
+  "EndDateTime": "2022-01-17T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "Finspångs SOK"
+  ],
+  "Region": "Östergötland",
+  "EventName": "FSOK och OK Denselns natt-cup",
+  "EventForm": "I",
+  "EventClass": "klubb",
+  "EventDiscipline": "F",
+  "EventDistance": "L",
+  "TimeOfDay": "N"
+ },
+ {
+  "Id": "43142",
+  "Status": "created",
+  "StartDateTime": "2022-01-17T10:30:00.000Z",
+  "EndDateTime": "2022-01-17T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "OK Orion"
+  ],
+  "Region": "Blekinge",
+  "EventName": "Östra Blekinges Nattcup etapp 3",
+  "EventForm": "I",
+  "EventClass": "när",
+  "EventDiscipline": "F",
+  "EventDistance": "L",
+  "TimeOfDay": "N"
+ },
+ {
+  "Id": "43197",
+  "Status": "created",
+  "StartDateTime": "2022-01-17T10:30:00.000Z",
+  "EndDateTime": "2022-01-17T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "Strängnäs-Malmby OL"
+  ],
+  "Region": "Södermanland",
+  "EventName": "Nattcup 1",
+  "EventForm": "I",
+  "EventClass": "klubb",
+  "EventDiscipline": "F",
+  "EventDistance": "M",
+  "TimeOfDay": "N"
+ },
+ {
+  "Id": "43089",
+  "Status": "created",
+  "StartDateTime": "2022-01-17T10:30:00.000Z",
+  "EndDateTime": "2022-01-17T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "Väsby OK"
+  ],
+  "Region": "Stockholm",
+  "EventName": "Nattsprintcup 4",
+  "EventForm": "I",
+  "EventClass": "klubb",
+  "EventDiscipline": "F",
+  "EventDistance": "S",
+  "TimeOfDay": "N"
+ },
+ {
+  "Id": "43113",
+  "Status": "created",
+  "StartDateTime": "2022-01-17T10:30:00.000Z",
+  "EndDateTime": "2022-01-17T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "Falköpings AIK OK"
+  ],
+  "Region": "Västergötland",
+  "EventName": "Skaraborg By Night",
+  "EventForm": "I",
+  "EventClass": "när",
+  "EventDiscipline": "F",
+  "EventDistance": "L",
+  "TimeOfDay": "N"
+ },
+ {
+  "Id": "43119",
+  "Status": "created",
+  "StartDateTime": "2022-01-18T10:30:00.000Z",
+  "EndDateTime": "2022-01-18T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "Svenska Orienteringsförbundet"
+  ],
+  "Region": "",
+  "EventName": "Landslagets Höstsamling - Öppna träningar | #2 Medeldistans",
+  "EventForm": "I",
+  "EventClass": "klubb",
+  "EventDiscipline": "F",
+  "EventDistance": "M",
+  "TimeOfDay": "D"
+ },
+ {
+  "Id": "42897",
+  "Status": "created",
+  "StartDateTime": "2022-01-18T10:30:00.000Z",
+  "EndDateTime": "2022-01-18T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "SOK Aneby"
+  ],
+  "Region": "Småland",
+  "EventName": "KM Natt",
+  "EventForm": "I",
+  "EventClass": "klubb",
+  "EventDiscipline": "F",
+  "EventDistance": "L",
+  "TimeOfDay": "N"
+ },
+ {
+  "Id": "43021",
+  "Status": "created",
+  "StartDateTime": "2022-01-18T10:30:00.000Z",
+  "EndDateTime": "2022-01-18T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "OK Hällen"
+  ],
+  "Region": "Södermanland",
+  "EventName": "Kanonloppet natt",
+  "EventForm": "I",
+  "EventClass": "klubb",
+  "EventDiscipline": "F",
+  "EventDistance": "L",
+  "TimeOfDay": "N"
+ },
+ {
+  "Id": "43200",
+  "Status": "created",
+  "StartDateTime": "2022-01-19T10:30:00.000Z",
+  "EndDateTime": "2022-01-19T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "Attunda OK"
+  ],
+  "Region": "Stockholm",
+  "EventName": "Nordcupen #3 Sprint",
+  "EventForm": "I",
+  "EventClass": "när",
+  "EventDiscipline": "F",
+  "EventDistance": "S",
+  "TimeOfDay": "D"
+ },
+ {
+  "Id": "43194",
+  "Status": "created",
+  "StartDateTime": "2022-01-19T10:30:00.000Z",
+  "EndDateTime": "2022-01-19T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "Södertälje-Nykvarn OF"
+  ],
+  "Region": "Södermanland",
+  "EventName": "Novemberkåsan",
+  "EventForm": "I",
+  "EventClass": "klubb",
+  "EventDiscipline": "F",
+  "EventDistance": "U",
+  "TimeOfDay": "D"
+ },
+ {
+  "Id": "42481",
+  "Status": "created",
+  "StartDateTime": "2022-11-19T10:30:00.000Z",
+  "EndDateTime": "2022-11-20T17:00:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "OK Pers Lärjungar"
+  ],
+  "Region": "Gästrikland",
+  "EventName": "Viken Indoor",
+  "EventForm": "I",
+  "EventClass": "dist",
+  "EventDiscipline": "F",
+  "EventDistance": "L",
+  "TimeOfDay": "D"
+ },
+ {
+  "Id": "43121",
+  "Status": "created",
+  "StartDateTime": "2022-01-19T10:30:00.000Z",
+  "EndDateTime": "2022-01-19T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "Svenska Orienteringsförbundet"
+  ],
+  "Region": "",
+  "EventName": "Landslagets Höstsamling - Öppna träningar | #EXTRA Gafflad Brunbild",
+  "EventForm": "I",
+  "EventClass": "klubb",
+  "EventDiscipline": "F",
+  "EventDistance": "L",
+  "TimeOfDay": "D"
+ },
+ {
+  "Id": "43075",
+  "Status": "created",
+  "StartDateTime": "2022-01-19T10:30:00.000Z",
+  "EndDateTime": "2022-01-19T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "Nyköpings OK"
+  ],
+  "Region": "Södermanland",
+  "EventName": "Ärtloppet",
+  "EventForm": "I",
+  "EventClass": "klubb",
+  "EventDiscipline": "F",
+  "EventDistance": "L",
+  "TimeOfDay": "D"
+ },
+ {
+  "Id": "43203",
+  "Status": "created",
+  "StartDateTime": "2022-11-19T10:30:00.000Z",
+  "EndDateTime": "2022-11-20T17:00:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "IS Kullen"
+  ],
+  "Region": "Skåne",
+  "EventName": "Poängjakt",
+  "EventForm": "I",
+  "EventClass": "när",
+  "EventDiscipline": "F",
+  "EventDistance": "M",
+  "TimeOfDay": "D"
+ },
+ {
+  "Id": "43022",
+  "Status": "created",
+  "StartDateTime": "2022-01-19T10:30:00.000Z",
+  "EndDateTime": "2022-01-19T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "OK Hällen"
+  ],
+  "Region": "Södermanland",
+  "EventName": "Kanonloppet dag",
+  "EventForm": "I",
+  "EventClass": "klubb",
+  "EventDiscipline": "F",
+  "EventDistance": "L",
+  "TimeOfDay": "D"
+ },
+ {
+  "Id": "43120",
+  "Status": "created",
+  "StartDateTime": "2022-01-19T10:30:00.000Z",
+  "EndDateTime": "2022-01-19T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "Svenska Orienteringsförbundet"
+  ],
+  "Region": "",
+  "EventName": "Landslagets Höstsamling - Öppna träningar | #3 Sprint Prio",
+  "EventForm": "I",
+  "EventClass": "klubb",
+  "EventDiscipline": "F",
+  "EventDistance": "S",
+  "TimeOfDay": "D"
+ },
+ {
+  "Id": "35891",
+  "Status": "created",
+  "StartDateTime": "2022-01-19T10:30:00.000Z",
+  "EndDateTime": "2022-01-19T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "Arboga OK"
+  ],
+  "Region": "Västmanland",
+  "EventName": "Fakiren",
+  "EventForm": "I",
+  "EventClass": "nat",
+  "EventDiscipline": "F",
+  "EventDistance": "U",
+  "TimeOfDay": "D"
+ },
+ {
+  "Id": "43036",
+  "Status": "created",
+  "StartDateTime": "2022-01-19T10:30:00.000Z",
+  "EndDateTime": "2022-01-19T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "Mariestads FK"
+  ],
+  "Region": "Västergötland",
+  "EventName": "OLavslutning, Handicapen",
+  "EventForm": "I",
+  "EventClass": "klubb",
+  "EventDiscipline": "F",
+  "EventDistance": "M",
+  "TimeOfDay": "D"
+ },
+ {
+  "Id": "42837",
+  "Status": "created",
+  "StartDateTime": "2022-01-19T10:30:00.000Z",
+  "EndDateTime": "2022-01-19T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "Attunda OK",
+   "Malungs OK Skogsmårdarna"
+  ],
+  "Region": "StockholmDalarna",
+  "EventName": "MUMS 2022",
+  "EventForm": "P",
+  "EventClass": "när",
+  "EventDiscipline": "F",
+  "EventDistance": "U",
+  "TimeOfDay": "N"
+ },
+ {
+  "Id": "36283",
+  "Status": "created",
+  "StartDateTime": "2022-01-20T10:30:00.000Z",
+  "EndDateTime": "2022-01-20T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "Örkelljunga FK"
+  ],
+  "Region": "Skåne",
+  "EventName": "Höstrusket i Örkelljunga",
+  "EventForm": "I",
+  "EventClass": "nat",
+  "EventDiscipline": "F",
+  "EventDistance": "M",
+  "TimeOfDay": "D"
+ },
+ {
+  "Id": "42998",
+  "Status": "created",
+  "StartDateTime": "2022-01-20T10:30:00.000Z",
+  "EndDateTime": "2022-01-20T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "Gällstadbygdens SOK"
+  ],
+  "Region": "Västergötland",
+  "EventName": "KM 2022",
+  "EventForm": "I",
+  "EventClass": "klubb",
+  "EventDiscipline": "F",
+  "EventDistance": "M",
+  "TimeOfDay": "D"
+ },
+ {
+  "Id": "42672",
+  "Status": "created",
+  "StartDateTime": "2022-01-20T10:30:00.000Z",
+  "EndDateTime": "2022-01-20T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "Järfälla OK"
+  ],
+  "Region": "Stockholm",
+  "EventName": "Ultralång-KM för Järfälla OK",
+  "EventForm": "I",
+  "EventClass": "klubb",
+  "EventDiscipline": "F",
+  "EventDistance": "U",
+  "TimeOfDay": "D"
+ },
+ {
+  "Id": "43180",
+  "Status": "created",
+  "StartDateTime": "2022-01-20T10:30:00.000Z",
+  "EndDateTime": "2022-01-20T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "Rimbo SOK"
+  ],
+  "Region": "Upplands Orienteringsförbund",
+  "EventName": "Skinklopp",
+  "EventForm": "I",
+  "EventClass": "när",
+  "EventDiscipline": "F",
+  "EventDistance": "L",
+  "TimeOfDay": "D"
+ },
+ {
+  "Id": "41797",
+  "Status": "created",
+  "StartDateTime": "2022-01-20T10:30:00.000Z",
+  "EndDateTime": "2022-01-20T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "OK Alehof"
+  ],
+  "Region": "Göteborg",
+  "EventName": "OK Alehofs Öppna Ultralång KM",
+  "EventForm": "I",
+  "EventClass": "klubb",
+  "EventDiscipline": "F",
+  "EventDistance": "U",
+  "TimeOfDay": "D"
+ },
+ {
+  "Id": "42944",
+  "Status": "created",
+  "StartDateTime": "2022-01-20T10:30:00.000Z",
+  "EndDateTime": "2022-01-20T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "Västerviks OK"
+  ],
+  "Region": "Småland",
+  "EventName": "Älghornet",
+  "EventForm": "I",
+  "EventClass": "klubb",
+  "EventDiscipline": "F",
+  "EventDistance": "L",
+  "TimeOfDay": "D"
+ },
+ {
+  "Id": "43112",
+  "Status": "created",
+  "StartDateTime": "2022-01-20T10:30:00.000Z",
+  "EndDateTime": "2022-01-20T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "Centrum OK"
+  ],
+  "Region": "Stockholm",
+  "EventName": "Ultralång-KM",
+  "EventForm": "I",
+  "EventClass": "klubb",
+  "EventDiscipline": "F",
+  "EventDistance": "U",
+  "TimeOfDay": "D"
+ },
+ {
+  "Id": "43122",
+  "Status": "created",
+  "StartDateTime": "2022-01-20T10:30:00.000Z",
+  "EndDateTime": "2022-01-20T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "Svenska Orienteringsförbundet"
+  ],
+  "Region": "",
+  "EventName": "Landslagets Höstsamling - Öppna träningar | #4 Momentdistans med micro",
+  "EventForm": "I",
+  "EventClass": "klubb",
+  "EventDiscipline": "F",
+  "EventDistance": "L",
+  "TimeOfDay": "D"
+ },
+ {
+  "Id": "42911",
+  "Status": "created",
+  "StartDateTime": "2022-01-20T10:30:00.000Z",
+  "EndDateTime": "2022-01-20T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "Frölunda OL"
+  ],
+  "Region": "Göteborg",
+  "EventName": "Dag-KM + Frölunda 25-års-Jubileum",
+  "EventForm": "I",
+  "EventClass": "klubb",
+  "EventDiscipline": "F",
+  "EventDistance": "L",
+  "TimeOfDay": "D"
+ },
+ {
+  "Id": "43153",
+  "Status": "created",
+  "StartDateTime": "2022-01-21T10:30:00.000Z",
+  "EndDateTime": "2022-01-21T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "Ljusdals OK"
+  ],
+  "Region": "Hälsingland",
+  "EventName": "Svartvallssvängen",
+  "EventForm": "I",
+  "EventClass": "klubb",
+  "EventDiscipline": "F",
+  "EventDistance": "L",
+  "TimeOfDay": "N"
+ },
+ {
+  "Id": "42843",
+  "Status": "created",
+  "StartDateTime": "2022-01-22T10:30:00.000Z",
+  "EndDateTime": "2022-01-22T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "Motala AIF OL"
+  ],
+  "Region": "Östergötland",
+  "EventName": "Ramons Bana 2023:3",
+  "EventForm": "I",
+  "EventClass": "klubb",
+  "EventDiscipline": "F",
+  "EventDistance": "L",
+  "TimeOfDay": "N"
+ },
+ {
+  "Id": "43138",
+  "Status": "created",
+  "StartDateTime": "2022-01-22T10:30:00.000Z",
+  "EndDateTime": "2022-01-22T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "Lunds OK"
+  ],
+  "Region": "Skåne",
+  "EventName": "Lunds OK Nattcup 2022 etapp 3",
+  "EventForm": "I",
+  "EventClass": "när",
+  "EventDiscipline": "F",
+  "EventDistance": "L",
+  "TimeOfDay": "N"
+ },
+ {
+  "Id": "43219",
+  "Status": "created",
+  "StartDateTime": "2022-01-22T10:30:00.000Z",
+  "EndDateTime": "2022-01-22T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "Västerviks OK"
+  ],
+  "Region": "Småland",
+  "EventName": "Tjustalliansens Nattcup #2",
+  "EventForm": "I",
+  "EventClass": "när",
+  "EventDiscipline": "F",
+  "EventDistance": "L",
+  "TimeOfDay": "N"
+ },
+ {
+  "Id": "42996",
+  "Status": "created",
+  "StartDateTime": "2022-01-22T10:30:00.000Z",
+  "EndDateTime": "2022-01-22T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "Söderköpings OK"
+  ],
+  "Region": "Östergötland",
+  "EventName": "Peking Vinter nattcup 1",
+  "EventForm": "I",
+  "EventClass": "när",
+  "EventDiscipline": "F",
+  "EventDistance": "L",
+  "TimeOfDay": "N"
+ },
+ {
+  "Id": "43154",
+  "Status": "created",
+  "StartDateTime": "2022-01-23T10:30:00.000Z",
+  "EndDateTime": "2022-01-23T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "Ljusdals OK"
+  ],
+  "Region": "Hälsingland",
+  "EventName": "Norrutmaningen",
+  "EventForm": "I",
+  "EventClass": "när",
+  "EventDiscipline": "F",
+  "EventDistance": "M",
+  "TimeOfDay": "N"
+ },
+ {
+  "Id": "43005",
+  "Status": "created",
+  "StartDateTime": "2022-01-23T10:30:00.000Z",
+  "EndDateTime": "2022-01-23T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "VK Uvarna"
+  ],
+  "Region": "Medelpad",
+  "EventName": "Nattcup #2",
+  "EventForm": "I",
+  "EventClass": "när",
+  "EventDiscipline": "F",
+  "EventDistance": "L",
+  "TimeOfDay": "N"
+ },
+ {
+  "Id": "43181",
+  "Status": "created",
+  "StartDateTime": "2022-01-23T10:30:00.000Z",
+  "EndDateTime": "2022-01-23T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "Tullinge SK"
+  ],
+  "Region": "Stockholm",
+  "EventName": "Nattugglan 2022-2023 #1",
+  "EventForm": "I",
+  "EventClass": "när",
+  "EventDiscipline": "F",
+  "EventDistance": "L",
+  "TimeOfDay": "N"
+ },
+ {
+  "Id": "42642",
+  "Status": "created",
+  "StartDateTime": "2022-01-24T10:30:00.000Z",
+  "EndDateTime": "2022-01-24T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "Kristinehamns OK"
+  ],
+  "Region": "Värmland",
+  "EventName": "Motions OL för daglediga och veteraner",
+  "EventForm": "I",
+  "EventClass": "när",
+  "EventDiscipline": "F",
+  "EventDistance": "M",
+  "TimeOfDay": "D"
+ },
+ {
+  "Id": "41968",
+  "Status": "created",
+  "StartDateTime": "2022-01-24T10:30:00.000Z",
+  "EndDateTime": "2022-01-24T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "Göteborgs OF"
+  ],
+  "Region": "Göteborg",
+  "EventName": "GBG Teknikträning",
+  "EventForm": "I",
+  "EventClass": "när",
+  "EventDiscipline": "F",
+  "EventDistance": "M",
+  "TimeOfDay": "D"
+ },
+ {
+  "Id": "43037",
+  "Status": "created",
+  "StartDateTime": "2022-01-24T10:30:00.000Z",
+  "EndDateTime": "2022-01-24T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "OK Landehof"
+  ],
+  "Region": "Göteborg",
+  "EventName": "OK Landehof Nattcup Etapp 2",
+  "EventForm": "I",
+  "EventClass": "när",
+  "EventDiscipline": "F",
+  "EventDistance": "L",
+  "TimeOfDay": "N"
+ },
+ {
+  "Id": "43143",
+  "Status": "created",
+  "StartDateTime": "2022-01-24T10:30:00.000Z",
+  "EndDateTime": "2022-01-24T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "Karlskrona SOK",
+   "OK Orion"
+  ],
+  "Region": "Blekinge",
+  "EventName": "Östra Blekinges Nattcup etapp 4",
+  "EventForm": "I",
+  "EventClass": "när",
+  "EventDiscipline": "F",
+  "EventDistance": "L",
+  "TimeOfDay": "N"
+ },
+ {
+  "Id": "43187",
+  "Status": "created",
+  "StartDateTime": "2022-01-24T10:30:00.000Z",
+  "EndDateTime": "2022-01-24T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "Väsby OK"
+  ],
+  "Region": "Stockholm",
+  "EventName": "Nattsprintcup 5",
+  "EventForm": "I",
+  "EventClass": "klubb",
+  "EventDiscipline": "F",
+  "EventDistance": "S",
+  "TimeOfDay": "N"
+ },
+ {
+  "Id": "43035",
+  "Status": "created",
+  "StartDateTime": "2022-01-25T10:30:00.000Z",
+  "EndDateTime": "2022-01-25T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "Idefjordens SK"
+  ],
+  "Region": "Bohuslän-Dals Orienteringsförbund",
+  "EventName": "Kasenatta",
+  "EventForm": "I",
+  "EventClass": "när",
+  "EventDiscipline": "F",
+  "EventDistance": "M",
+  "TimeOfDay": "N"
+ },
+ {
+  "Id": "42799",
+  "Status": "created",
+  "StartDateTime": "2022-01-26T10:30:00.000Z",
+  "EndDateTime": "2022-01-26T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "OK Tranan"
+  ],
+  "Region": "Västergötland",
+  "EventName": "Tranan Höst Challenge",
+  "EventForm": "I",
+  "EventClass": "när",
+  "EventDiscipline": "F",
+  "EventDistance": "U",
+  "TimeOfDay": "D"
+ },
+ {
+  "Id": "43168",
+  "Status": "created",
+  "StartDateTime": "2022-01-26T10:30:00.000Z",
+  "EndDateTime": "2022-01-26T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "FK Boken",
+   "Helsingborgs SOK",
+   "Hjärnarps OL",
+   "OK Kompassen",
+   "Örkelljunga FK"
+  ],
+  "Region": "Skåne",
+  "EventName": "Träning OL-NV",
+  "EventForm": "I",
+  "EventClass": "klubb",
+  "EventDiscipline": "F",
+  "EventDistance": "L",
+  "TimeOfDay": "D"
+ },
+ {
+  "Id": "43016",
+  "Status": "created",
+  "StartDateTime": "2022-01-26T10:30:00.000Z",
+  "EndDateTime": "2022-01-26T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "Lerums SOK"
+  ],
+  "Region": "Göteborg",
+  "EventName": "Skinkan 2022",
+  "EventForm": "I",
+  "EventClass": "klubb",
+  "EventDiscipline": "F",
+  "EventDistance": "M",
+  "TimeOfDay": "D"
+ },
+ {
+  "Id": "42915",
+  "Status": "created",
+  "StartDateTime": "2022-01-26T10:30:00.000Z",
+  "EndDateTime": "2022-01-26T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "Korsnäs IF OK"
+  ],
+  "Region": "Dalarna",
+  "EventName": "Skinkloppet 2022",
+  "EventForm": "I",
+  "EventClass": "klubb",
+  "EventDiscipline": "F",
+  "EventDistance": "M",
+  "TimeOfDay": "D"
+ },
+ {
+  "Id": "42951",
+  "Status": "created",
+  "StartDateTime": "2022-01-26T10:30:00.000Z",
+  "EndDateTime": "2022-01-26T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "Järfälla OK"
+  ],
+  "Region": "Stockholm",
+  "EventName": "Nordcupen #4 lång",
+  "EventForm": "I",
+  "EventClass": "när",
+  "EventDiscipline": "F",
+  "EventDistance": "L",
+  "TimeOfDay": "D"
+ },
+ {
+  "Id": "43204",
+  "Status": "created",
+  "StartDateTime": "2022-11-26T10:30:00.000Z",
+  "EndDateTime": "2022-11-27T17:00:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "IS Kullen"
+  ],
+  "Region": "Skåne",
+  "EventName": "Poängjakt",
+  "EventForm": "I",
+  "EventClass": "när",
+  "EventDiscipline": "F",
+  "EventDistance": "M",
+  "TimeOfDay": "D"
+ },
+ {
+  "Id": "42995",
+  "Status": "created",
+  "StartDateTime": "2022-01-26T10:30:00.000Z",
+  "EndDateTime": "2022-01-26T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "Selånger SOK"
+  ],
+  "Region": "Medelpad",
+  "EventName": "Adventstöpet",
+  "EventForm": "I",
+  "EventClass": "när",
+  "EventDiscipline": "F",
+  "EventDistance": "M",
+  "TimeOfDay": "D"
+ },
+ {
+  "Id": "43044",
+  "Status": "created",
+  "StartDateTime": "2022-01-26T10:30:00.000Z",
+  "EndDateTime": "2022-01-26T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "Smedjebackens OK"
+  ],
+  "Region": "Dalarna",
+  "EventName": "OL-skytte Smedjebacken",
+  "EventForm": "I",
+  "EventClass": "när",
+  "EventDiscipline": "LY",
+  "EventDistance": "S",
+  "TimeOfDay": "D"
+ },
+ {
+  "Id": "42553",
+  "Status": "created",
+  "StartDateTime": "2022-01-26T10:30:00.000Z",
+  "EndDateTime": "2022-01-26T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "OK Ravinen"
+  ],
+  "Region": "Stockholm",
+  "EventName": "Stockholm Rogaining",
+  "EventForm": "P",
+  "EventClass": "dist",
+  "EventDiscipline": "LM",
+  "EventDistance": "U",
+  "TimeOfDay": "D"
+ },
+ {
+  "Id": "42957",
+  "Status": "created",
+  "StartDateTime": "2022-01-26T10:30:00.000Z",
+  "EndDateTime": "2022-01-26T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "OL Teamet Olofström"
+  ],
+  "Region": "Blekinge",
+  "EventName": "Plockepinn 2022",
+  "EventForm": "P",
+  "EventClass": "klubb",
+  "EventDiscipline": "F",
+  "EventDistance": "U",
+  "TimeOfDay": "K"
+ },
+ {
+  "Id": "42049",
+  "Status": "created",
+  "StartDateTime": "2022-01-27T10:30:00.000Z",
+  "EndDateTime": "2022-01-27T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "FK Herkules"
+  ],
+  "Region": "Göteborg",
+  "EventName": "Herkules stuglopp",
+  "EventForm": "I",
+  "EventClass": "klubb",
+  "EventDiscipline": "F",
+  "EventDistance": "U",
+  "TimeOfDay": "D"
+ },
+ {
+  "Id": "43088",
+  "Status": "created",
+  "StartDateTime": "2022-01-27T10:30:00.000Z",
+  "EndDateTime": "2022-01-27T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "Attunda OK",
+   "Enebybergs IF",
+   "Väsby OK"
+  ],
+  "Region": "Stockholm",
+  "EventName": "Ultra KM",
+  "EventForm": "I",
+  "EventClass": "klubb",
+  "EventDiscipline": "F",
+  "EventDistance": "U",
+  "TimeOfDay": "D"
+ },
+ {
+  "Id": "42964",
+  "Status": "created",
+  "StartDateTime": "2022-01-27T10:30:00.000Z",
+  "EndDateTime": "2022-01-27T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "OK Silva"
+  ],
+  "Region": "Skåne",
+  "EventName": "AdventOrient etapp 1",
+  "EventForm": "I",
+  "EventClass": "när",
+  "EventDiscipline": "F",
+  "EventDistance": "L",
+  "TimeOfDay": "D"
+ },
+ {
+  "Id": "43155",
+  "Status": "created",
+  "StartDateTime": "2022-01-28T10:30:00.000Z",
+  "EndDateTime": "2022-01-28T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "Ljusdals OK"
+  ],
+  "Region": "Hälsingland",
+  "EventName": "Le IF",
+  "EventForm": "I",
+  "EventClass": "klubb",
+  "EventDiscipline": "F",
+  "EventDistance": "L",
+  "TimeOfDay": "N"
+ },
+ {
+  "Id": "43139",
+  "Status": "created",
+  "StartDateTime": "2022-01-29T10:30:00.000Z",
+  "EndDateTime": "2022-01-29T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "Lunds OK"
+  ],
+  "Region": "Skåne",
+  "EventName": "Lunds OK Nattcup 2022 etapp 4",
+  "EventForm": "I",
+  "EventClass": "när",
+  "EventDiscipline": "F",
+  "EventDistance": "L",
+  "TimeOfDay": "N"
+ },
+ {
+  "Id": "43017",
+  "Status": "created",
+  "StartDateTime": "2022-01-29T10:30:00.000Z",
+  "EndDateTime": "2022-01-29T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "OK Måsen"
+  ],
+  "Region": "Södermanland",
+  "EventName": "Nattcup #1",
+  "EventForm": "I",
+  "EventClass": "klubb",
+  "EventDiscipline": "F",
+  "EventDistance": "M",
+  "TimeOfDay": "N"
+ },
+ {
+  "Id": "43159",
+  "Status": "created",
+  "StartDateTime": "2022-01-29T10:30:00.000Z",
+  "EndDateTime": "2022-01-29T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "FK Boken",
+   "Helsingborgs SOK",
+   "Hjärnarps OL",
+   "OK Kompassen",
+   "Örkelljunga FK"
+  ],
+  "Region": "Skåne",
+  "EventName": "OL-NV Natträning 2",
+  "EventForm": "I",
+  "EventClass": "klubb",
+  "EventDiscipline": "F",
+  "EventDistance": "L",
+  "TimeOfDay": "N"
+ },
+ {
+  "Id": "43218",
+  "Status": "created",
+  "StartDateTime": "2022-01-30T10:30:00.000Z",
+  "EndDateTime": "2022-01-30T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "Berga SOK"
+  ],
+  "Region": "Småland",
+  "EventName": "Berga SOK Veteran OL",
+  "EventForm": "I",
+  "EventClass": "när",
+  "EventDiscipline": "F",
+  "EventDistance": "M",
+  "TimeOfDay": "D"
+ },
+ {
+  "Id": "43156",
+  "Status": "created",
+  "StartDateTime": "2022-01-30T10:30:00.000Z",
+  "EndDateTime": "2022-01-30T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "Ljusdals OK"
+  ],
+  "Region": "Hälsingland",
+  "EventName": "Volvo XL",
+  "EventForm": "I",
+  "EventClass": "klubb",
+  "EventDiscipline": "F",
+  "EventDistance": "L",
+  "TimeOfDay": "N"
+ },
+ {
+  "Id": "43190",
+  "Status": "created",
+  "StartDateTime": "2022-12-01T10:30:00.000Z",
+  "EndDateTime": "2022-12-01T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "OK Tranan"
+  ],
+  "Region": "Västergötland",
+  "EventName": "Natt 7:an etapp 2",
+  "EventForm": "I",
+  "EventClass": "när",
+  "EventDiscipline": "F",
+  "EventDistance": "L",
+  "TimeOfDay": "N"
+ },
+ {
+  "Id": "42643",
+  "Status": "created",
+  "StartDateTime": "2022-12-01T10:30:00.000Z",
+  "EndDateTime": "2022-12-01T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "Kristinehamns OK"
+  ],
+  "Region": "Värmland",
+  "EventName": "Motions OL för daglediga och veteraner",
+  "EventForm": "I",
+  "EventClass": "när",
+  "EventDiscipline": "F",
+  "EventDistance": "M",
+  "TimeOfDay": "D"
+ },
+ {
+  "Id": "41990",
+  "Status": "created",
+  "StartDateTime": "2022-12-01T10:30:00.000Z",
+  "EndDateTime": "2022-12-01T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "IFK Göteborg Orientering"
+  ],
+  "Region": "Göteborg",
+  "EventName": "Veteran-OL Göteborg",
+  "EventForm": "I",
+  "EventClass": "när",
+  "EventDiscipline": "F",
+  "EventDistance": "M",
+  "TimeOfDay": "D"
+ },
+ {
+  "Id": "41969",
+  "Status": "created",
+  "StartDateTime": "2022-12-01T10:30:00.000Z",
+  "EndDateTime": "2022-12-01T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "Göteborgs OF"
+  ],
+  "Region": "Göteborg",
+  "EventName": "GBG Teknikträning",
+  "EventForm": "I",
+  "EventClass": "när",
+  "EventDiscipline": "F",
+  "EventDistance": "L",
+  "TimeOfDay": "K"
+ },
+ {
+  "Id": "42780",
+  "Status": "created",
+  "StartDateTime": "2022-12-01T10:30:00.000Z",
+  "EndDateTime": "2022-12-01T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "OK Motala"
+  ],
+  "Region": "Östergötland",
+  "EventName": "Jerrys Nattsprint 3.",
+  "EventForm": "I",
+  "EventClass": "när",
+  "EventDiscipline": "F",
+  "EventDistance": "S",
+  "TimeOfDay": "N"
+ },
+ {
+  "Id": "42881",
+  "Status": "created",
+  "StartDateTime": "2022-12-01T10:30:00.000Z",
+  "EndDateTime": "2022-12-01T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "Halmstad OK"
+  ],
+  "Region": "Halland",
+  "EventName": "Lunkans nattcup E3",
+  "EventForm": "I",
+  "EventClass": "när",
+  "EventDiscipline": "F",
+  "EventDistance": "M",
+  "TimeOfDay": "N"
+ },
+ {
+  "Id": "43144",
+  "Status": "created",
+  "StartDateTime": "2022-12-01T10:30:00.000Z",
+  "EndDateTime": "2022-12-01T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "OK Orion"
+  ],
+  "Region": "Blekinge",
+  "EventName": "Östra Blekinges Nattcup etapp 5",
+  "EventForm": "I",
+  "EventClass": "när",
+  "EventDiscipline": "F",
+  "EventDistance": "L",
+  "TimeOfDay": "N"
+ },
+ {
+  "Id": "38637",
+  "Status": "created",
+  "StartDateTime": "2022-12-02T10:30:00.000Z",
+  "EndDateTime": "2022-12-02T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "Helsingborgs SOK"
+  ],
+  "Region": "Skåne",
+  "EventName": "HBG Sprint by Night",
+  "EventForm": "I",
+  "EventClass": "dist",
+  "EventDiscipline": "F",
+  "EventDistance": "S",
+  "TimeOfDay": "N"
+ },
+ {
+  "Id": "43228",
+  "Status": "created",
+  "StartDateTime": "2022-12-03T10:30:00.000Z",
+  "EndDateTime": "2022-12-03T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "Katrineholms OK"
+  ],
+  "Region": "Södermanland",
+  "EventName": "Råhänget + Medlemsmöte",
+  "EventForm": "I",
+  "EventClass": "klubb",
+  "EventDiscipline": "F",
+  "EventDistance": "M",
+  "TimeOfDay": "D"
+ },
+ {
+  "Id": "42554",
+  "Status": "created",
+  "StartDateTime": "2022-12-03T10:30:00.000Z",
+  "EndDateTime": "2022-12-03T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "Arvidsjaurs OK",
+   "I 19 IF"
+  ],
+  "Region": "Norrbotten",
+  "EventName": "SkidO, Svenska cupen, #1, sprint, Arvidsjaur",
+  "EventForm": "I",
+  "EventClass": "nat",
+  "EventDiscipline": "S",
+  "EventDistance": "S",
+  "TimeOfDay": "D"
+ },
+ {
+  "Id": "42940",
+  "Status": "created",
+  "StartDateTime": "2022-12-03T10:30:00.000Z",
+  "EndDateTime": "2022-12-03T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "Helsingborgs SOK"
+  ],
+  "Region": "Skåne",
+  "EventName": "HBG Indoor",
+  "EventForm": "I",
+  "EventClass": "dist",
+  "EventDiscipline": "F",
+  "EventDistance": "S",
+  "TimeOfDay": "D"
+ },
+ {
+  "Id": "43205",
+  "Status": "created",
+  "StartDateTime": "2022-12-03T10:30:00.000Z",
+  "EndDateTime": "2022-12-04T17:00:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "IS Kullen"
+  ],
+  "Region": "Skåne",
+  "EventName": "Poängjakt",
+  "EventForm": "I",
+  "EventClass": "när",
+  "EventDiscipline": "F",
+  "EventDistance": "M",
+  "TimeOfDay": "D"
+ },
+ {
+  "Id": "42555",
+  "Status": "created",
+  "StartDateTime": "2022-12-03T10:30:00.000Z",
+  "EndDateTime": "2022-12-03T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "Arvidsjaurs OK",
+   "I 19 IF"
+  ],
+  "Region": "Norrbotten",
+  "EventName": "SkidO, Svenska cupen, #2, sprint, Arvidsjaur",
+  "EventForm": "I",
+  "EventClass": "nat",
+  "EventDiscipline": "S",
+  "EventDistance": "S",
+  "TimeOfDay": "D"
+ },
+ {
+  "Id": "43045",
+  "Status": "created",
+  "StartDateTime": "2022-12-03T10:30:00.000Z",
+  "EndDateTime": "2022-12-03T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "Linköpings OK"
+  ],
+  "Region": "Östergötland",
+  "EventName": "LOKs inomhussprint",
+  "EventForm": "I",
+  "EventClass": "klubb",
+  "EventDiscipline": "F",
+  "EventDistance": "S",
+  "TimeOfDay": "D"
+ },
+ {
+  "Id": "43114",
+  "Status": "created",
+  "StartDateTime": "2022-12-04T10:30:00.000Z",
+  "EndDateTime": "2022-12-04T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "Arboga OK"
+  ],
+  "Region": "Västmanland",
+  "EventName": "Julserien Etapp 1",
+  "EventForm": "I",
+  "EventClass": "när",
+  "EventDiscipline": "F",
+  "EventDistance": "L",
+  "TimeOfDay": "D"
+ },
+ {
+  "Id": "42965",
+  "Status": "created",
+  "StartDateTime": "2022-12-04T10:30:00.000Z",
+  "EndDateTime": "2022-12-04T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "OK Silva"
+  ],
+  "Region": "Skåne",
+  "EventName": "AdventOrient etapp 2",
+  "EventForm": "I",
+  "EventClass": "när",
+  "EventDiscipline": "F",
+  "EventDistance": "L",
+  "TimeOfDay": "D"
+ },
+ {
+  "Id": "42557",
+  "Status": "created",
+  "StartDateTime": "2022-12-04T10:30:00.000Z",
+  "EndDateTime": "2022-12-04T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "Arvidsjaurs OK",
+   "I 19 IF"
+  ],
+  "Region": "Norrbotten",
+  "EventName": "SkidO, Svenska cupen, #3, medel, Arvidsjaur",
+  "EventForm": "I",
+  "EventClass": "nat",
+  "EventDiscipline": "S",
+  "EventDistance": "M",
+  "TimeOfDay": "D"
+ },
+ {
+  "Id": "40947",
+  "Status": "created",
+  "StartDateTime": "2022-12-06T10:30:00.000Z",
+  "EndDateTime": "2022-12-06T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "Trosabygdens OK"
+  ],
+  "Region": "Södermanland",
+  "EventName": "GTNC 2",
+  "EventForm": "I",
+  "EventClass": "klubb",
+  "EventDiscipline": "F",
+  "EventDistance": "L",
+  "TimeOfDay": "N"
+ },
+ {
+  "Id": "43140",
+  "Status": "created",
+  "StartDateTime": "2022-12-06T10:30:00.000Z",
+  "EndDateTime": "2022-12-06T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "Lunds OK"
+  ],
+  "Region": "Skåne",
+  "EventName": "Lunds OK Nattcup 2022 etapp 5",
+  "EventForm": "I",
+  "EventClass": "när",
+  "EventDiscipline": "F",
+  "EventDistance": "L",
+  "TimeOfDay": "N"
+ },
+ {
+  "Id": "36765",
+  "Status": "created",
+  "StartDateTime": "2022-12-07T10:30:00.000Z",
+  "EndDateTime": "2022-12-07T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "Järla Orientering"
+  ],
+  "Region": "Stockholm",
+  "EventName": "Mareld Stockholm by Night, #2",
+  "EventForm": "I",
+  "EventClass": "dist",
+  "EventDiscipline": "F",
+  "EventDistance": "L",
+  "TimeOfDay": "N"
+ },
+ {
+  "Id": "42644",
+  "Status": "created",
+  "StartDateTime": "2022-12-08T10:30:00.000Z",
+  "EndDateTime": "2022-12-08T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "Kristinehamns OK"
+  ],
+  "Region": "Värmland",
+  "EventName": "Motions OL för daglediga och veteraner",
+  "EventForm": "I",
+  "EventClass": "när",
+  "EventDiscipline": "F",
+  "EventDistance": "M",
+  "TimeOfDay": "D"
+ },
+ {
+  "Id": "42844",
+  "Status": "created",
+  "StartDateTime": "2022-12-08T10:30:00.000Z",
+  "EndDateTime": "2022-12-08T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "Motala AIF OL"
+  ],
+  "Region": "Östergötland",
+  "EventName": "Ramons Bana 2023:4",
+  "EventForm": "I",
+  "EventClass": "klubb",
+  "EventDiscipline": "F",
+  "EventDistance": "L",
+  "TimeOfDay": "N"
+ },
+ {
+  "Id": "41970",
+  "Status": "created",
+  "StartDateTime": "2022-12-08T10:30:00.000Z",
+  "EndDateTime": "2022-12-08T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "Göteborgs OF"
+  ],
+  "Region": "Göteborg",
+  "EventName": "GBG Teknikträning",
+  "EventForm": "I",
+  "EventClass": "när",
+  "EventDiscipline": "F",
+  "EventDistance": "S",
+  "TimeOfDay": "K"
+ },
+ {
+  "Id": "43092",
+  "Status": "created",
+  "StartDateTime": "2022-12-08T10:30:00.000Z",
+  "EndDateTime": "2022-12-08T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "OK Österåker"
+  ],
+  "Region": "Stockholm",
+  "EventName": "Reflexcupen #1",
+  "EventForm": "I",
+  "EventClass": "klubb",
+  "EventDiscipline": "F",
+  "EventDistance": "L",
+  "TimeOfDay": "N"
+ },
+ {
+  "Id": "43145",
+  "Status": "created",
+  "StartDateTime": "2022-12-08T10:30:00.000Z",
+  "EndDateTime": "2022-12-08T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "OK Orion",
+   "Ronneby OK"
+  ],
+  "Region": "Blekinge",
+  "EventName": "Östra Blekinges Nattcup etapp 6",
+  "EventForm": "I",
+  "EventClass": "när",
+  "EventDiscipline": "F",
+  "EventDistance": "L",
+  "TimeOfDay": "N"
+ },
+ {
+  "Id": "43198",
+  "Status": "created",
+  "StartDateTime": "2022-12-08T10:30:00.000Z",
+  "EndDateTime": "2022-12-08T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "Strängnäs-Malmby OL"
+  ],
+  "Region": "Södermanland",
+  "EventName": "Nattcup 2",
+  "EventForm": "I",
+  "EventClass": "klubb",
+  "EventDiscipline": "F",
+  "EventDistance": "M",
+  "TimeOfDay": "N"
+ },
+ {
+  "Id": "43230",
+  "Status": "created",
+  "StartDateTime": "2022-01-10T10:30:00.000Z",
+  "EndDateTime": "2022-01-10T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "OK Österåker"
+  ],
+  "Region": "Stockholm",
+  "EventName": "Skinkloppet",
+  "EventForm": "I",
+  "EventClass": "klubb",
+  "EventDiscipline": "F",
+  "EventDistance": "L",
+  "TimeOfDay": "D"
+ },
+ {
+  "Id": "43206",
+  "Status": "created",
+  "StartDateTime": "2022-12-10T10:30:00.000Z",
+  "EndDateTime": "2022-12-11T17:00:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "IS Kullen"
+  ],
+  "Region": "Skåne",
+  "EventName": "Poängjakt",
+  "EventForm": "I",
+  "EventClass": "när",
+  "EventDiscipline": "F",
+  "EventDistance": "M",
+  "TimeOfDay": "D"
+ },
+ {
+  "Id": "41669",
+  "Status": "created",
+  "StartDateTime": "2022-12-10T10:30:00.000Z",
+  "EndDateTime": "2022-12-11T17:00:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "Chalmers OL"
+  ],
+  "Region": "Göteborg",
+  "EventName": "COL Indoor",
+  "EventForm": "I",
+  "EventClass": "dist",
+  "EventDiscipline": "F",
+  "EventDistance": "S",
+  "TimeOfDay": "D"
+ },
+ {
+  "Id": "43127",
+  "Status": "created",
+  "StartDateTime": "2022-01-10T10:30:00.000Z",
+  "EndDateTime": "2022-01-10T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "Lessebo OK"
+  ],
+  "Region": "Småland",
+  "EventName": "Lucianatten 2022",
+  "EventForm": "I",
+  "EventClass": "när",
+  "EventDiscipline": "F",
+  "EventDistance": "M",
+  "TimeOfDay": "N"
+ },
+ {
+  "Id": "43115",
+  "Status": "created",
+  "StartDateTime": "2022-01-11T10:30:00.000Z",
+  "EndDateTime": "2022-01-11T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "Arboga OK"
+  ],
+  "Region": "Västmanland",
+  "EventName": "Julserien Etapp 2",
+  "EventForm": "I",
+  "EventClass": "när",
+  "EventDiscipline": "F",
+  "EventDistance": "L",
+  "TimeOfDay": "D"
+ },
+ {
+  "Id": "42084",
+  "Status": "created",
+  "StartDateTime": "2022-01-11T10:30:00.000Z",
+  "EndDateTime": "2022-01-11T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "Lindebygdens OK"
+  ],
+  "Region": "Örebro Län",
+  "EventName": "Lusselunken",
+  "EventForm": "I",
+  "EventClass": "klubb",
+  "EventDiscipline": "F",
+  "EventDistance": "L",
+  "TimeOfDay": "D"
+ },
+ {
+  "Id": "42966",
+  "Status": "created",
+  "StartDateTime": "2022-01-11T10:30:00.000Z",
+  "EndDateTime": "2022-01-11T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "OK Silva"
+  ],
+  "Region": "Skåne",
+  "EventName": "AdventOrient etapp 3",
+  "EventForm": "I",
+  "EventClass": "när",
+  "EventDiscipline": "F",
+  "EventDistance": "L",
+  "TimeOfDay": "D"
+ },
+ {
+  "Id": "43051",
+  "Status": "created",
+  "StartDateTime": "2022-01-11T10:30:00.000Z",
+  "EndDateTime": "2022-01-11T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "Linköpings OK"
+  ],
+  "Region": "Östergötland",
+  "EventName": "Skinkloppet",
+  "EventForm": "I",
+  "EventClass": "klubb",
+  "EventDiscipline": "F",
+  "EventDistance": "M",
+  "TimeOfDay": "D"
+ },
+ {
+  "Id": "43098",
+  "Status": "created",
+  "StartDateTime": "2022-01-11T10:30:00.000Z",
+  "EndDateTime": "2022-01-11T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "Västerviks OK"
+  ],
+  "Region": "Småland",
+  "EventName": "Tjustalliansens Vintercup #2",
+  "EventForm": "I",
+  "EventClass": "när",
+  "EventDiscipline": "F",
+  "EventDistance": "M",
+  "TimeOfDay": "D"
+ },
+ {
+  "Id": "42228",
+  "Status": "created",
+  "StartDateTime": "2022-01-11T10:30:00.000Z",
+  "EndDateTime": "2022-01-11T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "Halmstad OK"
+  ],
+  "Region": "Halland",
+  "EventName": "Skinkjakten, ",
+  "EventForm": "I",
+  "EventClass": "klubb",
+  "EventDiscipline": "F",
+  "EventDistance": "M",
+  "TimeOfDay": "D"
+ },
+ {
+  "Id": "43031",
+  "Status": "created",
+  "StartDateTime": "2022-01-13T10:30:00.000Z",
+  "EndDateTime": "2022-01-13T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "Katrineholms OK"
+  ],
+  "Region": "Södermanland",
+  "EventName": "Skolgårdscupen 2023 Etapp 2",
+  "EventForm": "I",
+  "EventClass": "klubb",
+  "EventDiscipline": "F",
+  "EventDistance": "S",
+  "TimeOfDay": "N"
+ },
+ {
+  "Id": "43160",
+  "Status": "created",
+  "StartDateTime": "2022-01-13T10:30:00.000Z",
+  "EndDateTime": "2022-01-13T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "FK Boken",
+   "Helsingborgs SOK",
+   "Hjärnarps OL",
+   "OK Kompassen",
+   "Örkelljunga FK"
+  ],
+  "Region": "Skåne",
+  "EventName": "OL-NV Natträning 3",
+  "EventForm": "I",
+  "EventClass": "klubb",
+  "EventDiscipline": "F",
+  "EventDistance": "L",
+  "TimeOfDay": "N"
+ },
+ {
+  "Id": "42548",
+  "Status": "created",
+  "StartDateTime": "2022-01-15T10:30:00.000Z",
+  "EndDateTime": "2022-01-15T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "Göteborgs OF",
+   "IFK Göteborg Orientering"
+  ],
+  "Region": "Göteborg",
+  "EventName": "Mareld Nattcup E3",
+  "EventForm": "I",
+  "EventClass": "när",
+  "EventDiscipline": "F",
+  "EventDistance": "L",
+  "TimeOfDay": "N"
+ },
+ {
+  "Id": "43191",
+  "Status": "created",
+  "StartDateTime": "2022-01-15T10:30:00.000Z",
+  "EndDateTime": "2022-01-15T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "OK Räven"
+  ],
+  "Region": "Västergötland",
+  "EventName": "Natt 7:an etapp 3",
+  "EventForm": "I",
+  "EventClass": "när",
+  "EventDiscipline": "F",
+  "EventDistance": "L",
+  "TimeOfDay": "N"
+ },
+ {
+  "Id": "42645",
+  "Status": "created",
+  "StartDateTime": "2022-01-15T10:30:00.000Z",
+  "EndDateTime": "2022-01-15T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "Kristinehamns OK"
+  ],
+  "Region": "Värmland",
+  "EventName": "Motions OL för daglediga och veteraner",
+  "EventForm": "I",
+  "EventClass": "när",
+  "EventDiscipline": "F",
+  "EventDistance": "M",
+  "TimeOfDay": "D"
+ },
+ {
+  "Id": "41971",
+  "Status": "created",
+  "StartDateTime": "2022-01-15T10:30:00.000Z",
+  "EndDateTime": "2022-01-15T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "Göteborgs OF"
+  ],
+  "Region": "Göteborg",
+  "EventName": "GBG Teknikträning",
+  "EventForm": "I",
+  "EventClass": "när",
+  "EventDiscipline": "F",
+  "EventDistance": "M",
+  "TimeOfDay": "D"
+ },
+ {
+  "Id": "42956",
+  "Status": "created",
+  "StartDateTime": "2022-01-15T10:30:00.000Z",
+  "EndDateTime": "2022-01-15T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "OK Motala"
+  ],
+  "Region": "Östergötland",
+  "EventName": "Jerrys Nattsprint 4.",
+  "EventForm": "I",
+  "EventClass": "när",
+  "EventDiscipline": "F",
+  "EventDistance": "S",
+  "TimeOfDay": "N"
+ },
+ {
+  "Id": "42882",
+  "Status": "created",
+  "StartDateTime": "2022-01-15T10:30:00.000Z",
+  "EndDateTime": "2022-01-15T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "Halmstad OK"
+  ],
+  "Region": "Halland",
+  "EventName": "Lunkans nattcup E4",
+  "EventForm": "I",
+  "EventClass": "när",
+  "EventDiscipline": "F",
+  "EventDistance": "M",
+  "TimeOfDay": "N"
+ },
+ {
+  "Id": "43146",
+  "Status": "created",
+  "StartDateTime": "2022-01-15T10:30:00.000Z",
+  "EndDateTime": "2022-01-15T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "Karlskrona SOK",
+   "OK Orion"
+  ],
+  "Region": "Blekinge",
+  "EventName": "Östra Blekinges Nattcup etapp 7",
+  "EventForm": "I",
+  "EventClass": "när",
+  "EventDiscipline": "F",
+  "EventDistance": "L",
+  "TimeOfDay": "N"
+ },
+ {
+  "Id": "43220",
+  "Status": "created",
+  "StartDateTime": "2022-01-17T10:30:00.000Z",
+  "EndDateTime": "2022-01-17T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "IK Uven"
+  ],
+  "Region": "Göteborg",
+  "EventName": "Lusseloppet",
+  "EventForm": "I",
+  "EventClass": "klubb",
+  "EventDiscipline": "F",
+  "EventDistance": "L",
+  "TimeOfDay": "D"
+ },
+ {
+  "Id": "43169",
+  "Status": "created",
+  "StartDateTime": "2022-01-17T10:30:00.000Z",
+  "EndDateTime": "2022-01-17T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "FK Boken",
+   "Helsingborgs SOK",
+   "Hjärnarps OL",
+   "OK Kompassen",
+   "Örkelljunga FK"
+  ],
+  "Region": "Skåne",
+  "EventName": "Träning OL-NV",
+  "EventForm": "I",
+  "EventClass": "klubb",
+  "EventDiscipline": "F",
+  "EventDistance": "L",
+  "TimeOfDay": "D"
+ },
+ {
+  "Id": "43207",
+  "Status": "created",
+  "StartDateTime": "2022-12-17T10:30:00.000Z",
+  "EndDateTime": "2022-12-18T17:00:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "IS Kullen"
+  ],
+  "Region": "Skåne",
+  "EventName": "Poängjakt",
+  "EventForm": "I",
+  "EventClass": "när",
+  "EventDiscipline": "F",
+  "EventDistance": "M",
+  "TimeOfDay": "D"
+ },
+ {
+  "Id": "43116",
+  "Status": "created",
+  "StartDateTime": "2022-01-18T10:30:00.000Z",
+  "EndDateTime": "2022-01-18T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "Arboga OK"
+  ],
+  "Region": "Västmanland",
+  "EventName": "Julserien Etapp 3",
+  "EventForm": "I",
+  "EventClass": "när",
+  "EventDiscipline": "F",
+  "EventDistance": "L",
+  "TimeOfDay": "D"
+ },
+ {
+  "Id": "42967",
+  "Status": "created",
+  "StartDateTime": "2022-01-18T10:30:00.000Z",
+  "EndDateTime": "2022-01-18T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "OK Silva"
+  ],
+  "Region": "Skåne",
+  "EventName": "AdventOrient etapp 4",
+  "EventForm": "I",
+  "EventClass": "när",
+  "EventDiscipline": "F",
+  "EventDistance": "L",
+  "TimeOfDay": "D"
+ },
+ {
+  "Id": "43001",
+  "Status": "created",
+  "StartDateTime": "2022-01-20T10:30:00.000Z",
+  "EndDateTime": "2022-01-20T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "Frölunda OL"
+  ],
+  "Region": "Göteborg",
+  "EventName": "FOL:s GPS-julträning 2022",
+  "EventForm": "I",
+  "EventClass": "klubb",
+  "EventDiscipline": "F",
+  "EventDistance": "L",
+  "TimeOfDay": "D"
+ },
+ {
+  "Id": "43117",
+  "Status": "created",
+  "StartDateTime": "2022-01-26T10:30:00.000Z",
+  "EndDateTime": "2022-01-26T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "Arboga OK"
+  ],
+  "Region": "Västmanland",
+  "EventName": "Julserien Etapp 4",
+  "EventForm": "I",
+  "EventClass": "när",
+  "EventDiscipline": "F",
+  "EventDistance": "L",
+  "TimeOfDay": "D"
+ },
+ {
+  "Id": "42932",
+  "Status": "created",
+  "StartDateTime": "2022-01-26T10:30:00.000Z",
+  "EndDateTime": "2022-01-26T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "FK Herkules"
+  ],
+  "Region": "Göteborg",
+  "EventName": "Göteborg syd distans-OL",
+  "EventForm": "I",
+  "EventClass": "klubb",
+  "EventDiscipline": "F",
+  "EventDistance": "L",
+  "TimeOfDay": "D"
+ },
+ {
+  "Id": "42809",
+  "Status": "created",
+  "StartDateTime": "2022-01-27T10:30:00.000Z",
+  "EndDateTime": "2022-01-27T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "Ulricehamns OK"
+  ],
+  "Region": "Västergötland",
+  "EventName": "Mellandagsrushen, inomhussprint",
+  "EventForm": "I",
+  "EventClass": "när",
+  "EventDiscipline": "F",
+  "EventDistance": "S",
+  "TimeOfDay": "D"
+ },
+ {
+  "Id": "43161",
+  "Status": "created",
+  "StartDateTime": "2022-01-27T10:30:00.000Z",
+  "EndDateTime": "2022-01-27T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "FK Boken",
+   "Helsingborgs SOK",
+   "Hjärnarps OL",
+   "OK Kompassen",
+   "Örkelljunga FK"
+  ],
+  "Region": "Skåne",
+  "EventName": "OL-NV Natträning 4",
+  "EventForm": "I",
+  "EventClass": "klubb",
+  "EventDiscipline": "F",
+  "EventDistance": "L",
+  "TimeOfDay": "N"
+ },
+ {
+  "Id": "43135",
+  "Status": "created",
+  "StartDateTime": "2022-01-29T10:30:00.000Z",
+  "EndDateTime": "2022-01-29T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "OK Landehof"
+  ],
+  "Region": "Göteborg",
+  "EventName": "OK Landehof Nattcup Etapp 4",
+  "EventForm": "I",
+  "EventClass": "när",
+  "EventDiscipline": "F",
+  "EventDistance": "L",
+  "TimeOfDay": "N"
+ },
+ {
+  "Id": "43132",
+  "Status": "created",
+  "StartDateTime": "2022-01-31T10:30:00.000Z",
+  "EndDateTime": "2022-01-31T10:30:00.000Z",
+  "IsCancelled": false,
+  "Organizers": [
+   "Hudiksvalls OK"
+  ],
+  "Region": "Hälsingland",
+  "EventName": "Sylvestermissen",
+  "EventForm": "I",
+  "EventClass": "klubb",
+  "EventDiscipline": "F",
+  "EventDistance": "M",
+  "TimeOfDay": "D"
+ }
+]
